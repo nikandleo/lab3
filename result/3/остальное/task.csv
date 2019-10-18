@@ -1,0 +1,184 @@
+salaries	20000 - 68334	5.0
+salaries	68334 - 116667	5.0
+salaries	116667 - 165000	74.0
+salaries	165000 - 213334	1.0
+salaries	213334 - 261667	1.0
+salaries	261667 - 310000	2.0
+days	avg	11.534090909090908
+days	max	32.0
+days	min	3.0
+experience	От 1 года до 3 лет	51.0
+experience	От 3 до 6 лет	21.0
+experience	Нет опыта	14.0
+experience	Более 6 лет	2.0
+employment	Полная занятость	82.0
+employment	Частичная занятость	6.0
+schedule	Полный день	72.0
+schedule	Гибкий график	8.0
+schedule	Удаленная работа	7.0
+schedule	Сменный график	1.0
+skills	Без ключевых навыков	47.0
+skills	Составление семантического ядра	1.0
+skills	SEO оптимизация	1.0
+skills	Внешняя оптимизация сайта	1.0
+skills	Внутренняя оптимизация сайта	1.0
+skills	знание компьютерного оборудования	1.0
+skills	знание электротехники	1.0
+skills	настройка и программирование контроллеров Omron, Siemens, ПТК Торнадо	1.0
+skills	Деловая переписка	1.0
+skills	Обучение и развитие	2.0
+skills	MS Visio	3.0
+skills	Организация презентаций	1.0
+skills	Тайм-менеджмент	1.0
+skills	Английский язык	13.0
+skills	Пользователь ПК	5.0
+skills	1С: Документооборот	4.0
+skills	Грамотность	4.0
+skills	Грамотная речь	4.0
+skills	Креативность	2.0
+skills	Работа в команде	5.0
+skills	3D Моделирование	1.0
+skills	3D	1.0
+skills	Анимация	1.0
+skills	3D Max	1.0
+skills	3ds Max	1.0
+skills	Autodesk 3ds Max	1.0
+skills	Blender 3D	1.0
+skills	Autodesk Maya	1.0
+skills	Cinema 4D	1.0
+skills	Adobe Photoshop	2.0
+skills	Моделирование	1.0
+skills	Ориентация на результат	1.0
+skills	Low poly	1.0
+skills	lowpoly	1.0
+skills	low-poly	1.0
+skills	3d моделлер	1.0
+skills	текстурщик	1.0
+skills	3D-графика	1.0
+skills	Программирование 3D-графики	1.0
+skills	Графический дизайн	1.0
+skills	Animation	1.0
+skills	Unity	2.0
+skills	Unity3D	1.0
+skills	PostgreSQL	5.0
+skills	MySQL	2.0
+skills	NoSQL	1.0
+skills	BigData	1.0
+skills	Symfony	1.0
+skills	Yii	1.0
+skills	Laravel	1.0
+skills	AngularJS	1.0
+skills	Веб-программирование	1.0
+skills	Ember	1.0
+skills	React	1.0
+skills	Управление проектами	5.0
+skills	BPMN	1.0
+skills	MS Project	1.0
+skills	Моделирование бизнес процессов	1.0
+skills	1С: Предприятие 8	2.0
+skills	UX	2.0
+skills	UI	2.0
+skills	Прототипирование	1.0
+skills	Проектирование пользовательских интерфейсов	2.0
+skills	Usability	1.0
+skills	Web Design	1.0
+skills	Дизайн интерфейсов	1.0
+skills	SAP ERP	3.0
+skills	SQL	10.0
+skills	MS SQL	6.0
+skills	SAP Project	1.0
+skills	ArcGIS	1.0
+skills	Python	4.0
+skills	MapInfo Professional	1.0
+skills	ГИС	1.0
+skills	QGIS	1.0
+skills	Панорама	1.0
+skills	Работа с базами данных	1.0
+skills	Аналитическое мышление	4.0
+skills	Техническая документация	1.0
+skills	Умение принимать решения	1.0
+skills	Разработка регламентов	1.0
+skills	Согласование договоров	1.0
+skills	SAP BI	2.0
+skills	SAP BW	1.0
+skills	SAP BPC	1.0
+skills	SAP	1.0
+skills	SAP Analysis	1.0
+skills	SAP EPM	1.0
+skills	Оптимизация бизнес процессов	1.0
+skills	Программирование	1.0
+skills	Консультирование	1.0
+skills	Консолидация	1.0
+skills	Бюджетирование	1.0
+skills	Business Planning	1.0
+skills	Аналитическая отчетность	1.0
+skills	Java	4.0
+skills	SCALA	2.0
+skills	MS SQL Server	2.0
+skills	Разработка технических заданий	2.0
+skills	внедрение, сопровождение, DWH, хранилище данных, ХД, Oracle, PL/SQL, SQL	1.0
+skills	HTML	2.0
+skills	JavaScript	1.0
+skills	Разработка ПО	3.0
+skills	Oracle Pl/SQL	1.0
+skills	Постановка задач разработчикам	2.0
+skills	Atlassian Jira	1.0
+skills	Управление разработкой	1.0
+skills	Системная интеграция	1.0
+skills	Системный анализ	2.0
+skills	OSS	1.0
+skills	Техноград	1.0
+skills	Аргус	1.0
+skills	Системная архитектура	1.0
+skills	PHP	1.0
+skills	PHP5	1.0
+skills	CSS	1.0
+skills	Лидерские качества	1.0
+skills	Ответственность	1.0
+skills	1С программирование	1.0
+skills	1С: Комплексная автоматизация	1.0
+skills	1С: Управление Производственным Предприятием	1.0
+skills	1С: Зарплата и управление персоналом	1.0
+skills	1С: Бухгалтерия	1.0
+skills	MongoDB	1.0
+skills	База данных: Oracle	1.0
+skills	Проектная документация	2.0
+skills	Системное мышление	1.0
+skills	Cистемы управления базами данных	1.0
+skills	Technical writer	1.0
+skills	MadCap Flare	1.0
+skills	JIRA	1.0
+skills	Confluence	1.0
+skills	Author-It	1.0
+skills	support	1.0
+skills	Figma	1.0
+skills	Sketch	1.0
+skills	C#	1.0
+skills	VR	1.0
+skills	Руководство коллективом	2.0
+skills	Планирование	1.0
+skills	Информационные технологии	1.0
+skills	Деловое общение	1.0
+skills	Организаторские навыки	2.0
+skills	SAP FI	3.0
+skills	MS Access	2.0
+skills	АСУ ТП	1.0
+skills	Энергетика	1.0
+skills	Инженерные системы	1.0
+skills	AutoCAD	1.0
+skills	Базы данных	1.0
+skills	Spring Framework	1.0
+skills	Git	1.0
+skills	JUnit	1.0
+skills	Agile Project Management	1.0
+skills	MS PowerPoint	1.0
+skills	Управление интернет-проектами	1.0
+skills	Ведение переговоров	1.0
+skills	Разработка инструкций	1.0
+skills	Мобильность	1.0
+skills	SAP CRM	1.0
+skills	Внутренние коммуникации	1.0
+skills	Аналитические исследования	1.0
+skills	Mathematical Analysis	1.0
+skills	Mathematical Programming	1.0
+skills	Mathematical Statistics	1.0

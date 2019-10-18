@@ -1,0 +1,81 @@
+salaries	68334 - 116667	3.0
+salaries	116667 - 165000	23.0
+salaries	165000 - 213334	1.0
+salaries	213334 - 261667	1.0
+days	avg	13.75
+days	max	32.0
+days	min	3.0
+experience	От 1 года до 3 лет	15.0
+experience	От 3 до 6 лет	10.0
+experience	Нет опыта	2.0
+experience	Более 6 лет	1.0
+employment	Полная занятость	28.0
+schedule	Полный день	19.0
+schedule	Гибкий график	6.0
+schedule	Удаленная работа	3.0
+skills	CSS	9.0
+skills	MySQL	9.0
+skills	JavaScript	18.0
+skills	PHP	10.0
+skills	HTML	8.0
+skills	jQuery	6.0
+skills	JSP	1.0
+skills	Java	2.0
+skills	Git	9.0
+skills	Linux	4.0
+skills	AngularJS	6.0
+skills	ASP.NET	3.0
+skills	Entity Framework	1.0
+skills	SQL	4.0
+skills	SQL Server	1.0
+skills	PostgreSQL	5.0
+skills	Less	2.0
+skills	Sass	2.0
+skills	MVC	1.0
+skills	angular 4+	1.0
+skills	remote	1.0
+skills	CSS3	2.0
+skills	CMS Wordpress	1.0
+skills	HTML5	6.0
+skills	JSON API	1.0
+skills	Bootstrap	4.0
+skills	Кроссбраузерная верстка	1.0
+skills	Создание сайтов	1.0
+skills	Node.js	5.0
+skills	Vue.js	1.0
+skills	Apache HTTP Server	1.0
+skills	MS SQL	1.0
+skills	Python	1.0
+skills	Django Framework	1.0
+skills	Angular 7	1.0
+skills	Angular Material	1.0
+skills	SCSS	1.0
+skills	Leaflet.js	1.0
+skills	D3.js	1.0
+skills	TypeScript	1.0
+skills	NestJS	1.0
+skills	Cassandra	1.0
+skills	WebSockets	1.0
+skills	Без ключевых навыков	7.0
+skills	PHP7	1.0
+skills	.NET Framework	2.0
+skills	C#	2.0
+skills	Ajax	1.0
+skills	Atlassian Jira	1.0
+skills	JUnit	1.0
+skills	Vue JS	1.0
+skills	Angular	1.0
+skills	Redis	1.0
+skills	Agile Project Management	2.0
+skills	EmberJS	1.0
+skills	ExpressJS	1.0
+skills	AWS	1.0
+skills	Lambda	1.0
+skills	fullstack	1.0
+skills	Business English	1.0
+skills	Английский язык	1.0
+skills	cloud	1.0
+skills	ReactJS	1.0
+skills	ООП	1.0
+skills	Amazon AWS	1.0
+skills	MongoDB	1.0

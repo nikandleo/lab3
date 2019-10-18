@@ -1,0 +1,79 @@
+salaries	20000 - 68334	1.0
+salaries	68334 - 116667	3.0
+salaries	116667 - 165000	25.0
+salaries	213334 - 261667	2.0
+salaries	261667 - 310000	2.0
+days	avg	15.818181818181818
+days	max	30.0
+days	min	3.0
+experience	От 1 года до 3 лет	16.0
+experience	От 3 до 6 лет	11.0
+experience	Нет опыта	3.0
+experience	Более 6 лет	3.0
+employment	Полная занятость	32.0
+employment	Частичная занятость	1.0
+schedule	Удаленная работа	12.0
+schedule	Полный день	12.0
+schedule	Гибкий график	9.0
+skills	CSS	9.0
+skills	HTML	10.0
+skills	Мобильность	1.0
+skills	Умение работать в коллективе	1.0
+skills	JavaScript	17.0
+skills	React	6.0
+skills	HTML5	3.0
+skills	CSS3	2.0
+skills	TypeScript	3.0
+skills	ES6	2.0
+skills	three.js	1.0
+skills	C++	1.0
+skills	Без ключевых навыков	10.0
+skills	jQuery	2.0
+skills	PHP	1.0
+skills	Bootstrap	1.0
+skills	Git	2.0
+skills	JSON API	1.0
+skills	Web Application Development	1.0
+skills	NoSQL	1.0
+skills	AngularJS	4.0
+skills	Node.js	2.0
+skills	Unit Testing	1.0
+skills	React Native	2.0
+skills	ГИС	1.0
+skills	Redux	2.0
+skills	Flux	1.0
+skills	Webpack	1.0
+skills	Solid	1.0
+skills	DRY	1.0
+skills	Java EE	1.0
+skills	Spring Framework	1.0
+skills	Java	2.0
+skills	MySQL	1.0
+skills	PostgreSQL	1.0
+skills	API	1.0
+skills	AWS SDK	1.0
+skills	AWS	1.0
+skills	ReactJS	1.0
+skills	MongoDB	1.0
+skills	RDS	1.0
+skills	MS SQL	1.0
+skills	Ajax	1.0
+skills	React.js	1.0
+skills	ES6+	1.0
+skills	Groovy	1.0
+skills	ООП	2.0
+skills	E-Staff	1.0
+skills	WebTutor	1.0
+skills	MS SQL Server	1.0
+skills	Python	1.0
+skills	Английский язык	2.0
+skills	DWH	1.0
+skills	ETL	1.0
+skills	CI/CD	1.0
+skills	Angular	1.0
+skills	веб-порталы	1.0
+skills	Работа в команде	1.0
+skills	Start-up project	1.0
+skills	Офисная техника	1.0
+skills	Аналитическое мышление	1.0
+skills	Управление проектами	1.0

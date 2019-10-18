@@ -1,0 +1,97 @@
+salaries	20000 - 68334	2.0
+salaries	68334 - 116667	5.0
+salaries	116667 - 165000	35.0
+salaries	165000 - 213334	3.0
+salaries	213334 - 261667	1.0
+salaries	406667 - 	1.0
+days	avg	11.446808510638299
+days	max	32.0
+days	min	3.0
+experience	От 1 года до 3 лет	25.0
+experience	От 3 до 6 лет	12.0
+experience	Нет опыта	7.0
+experience	Более 6 лет	3.0
+employment	Полная занятость	45.0
+employment	Частичная занятость	1.0
+employment	Стажировка	1.0
+schedule	Полный день	35.0
+schedule	Гибкий график	12.0
+skills	C++	32.0
+skills	STL	7.0
+skills	ООП	7.0
+skills	C/C++	7.0
+skills	Git	9.0
+skills	Linux	10.0
+skills	TCP/IP	3.0
+skills	Без ключевых навыков	9.0
+skills	Qt	9.0
+skills	Unit Testing	2.0
+skills	Cmake Toolchain	1.0
+skills	GNU Toolchain	1.0
+skills	MSVC Toolchain	2.0
+skills	Firebird	1.0
+skills	wxWidgets	1.0
+skills	SQL	3.0
+skills	СУБД	1.0
+skills	Математическое программирование	1.0
+skills	SQLite	1.0
+skills	MS Visual Studio	4.0
+skills	Линейная алгебра и аналитическая геометрия	1.0
+skills	c	1.0
+skills	FPGA	1.0
+skills	алгоритмы	1.0
+skills	дискретная математика	1.0
+skills	алгебра	1.0
+skills	Verilog HDL	1.0
+skills	SVN	1.0
+skills	PostgreSQL	1.0
+skills	Delphi	1.0
+skills	C#	3.0
+skills	MS SQL	1.0
+skills	Python	4.0
+skills	Data Mining	1.0
+skills	Machine learning	1.0
+skills	Speech Recognition	1.0
+skills	C	2.0
+skills	PON	1.0
+skills	Bash	2.0
+skills	Perl	1.0
+skills	Английский язык	2.0
+skills	QML	2.0
+skills	Boost	2.0
+skills	OpenGL	3.0
+skills	компиллятор	1.0
+skills	GNU Make	1.0
+skills	Blockchain	1.0
+skills	Bitcoin	1.0
+skills	Средства криптографической защиты информации	1.0
+skills	MS SQL Server	1.0
+skills	Java	2.0
+skills	Hypersonic Sql	1.0
+skills	NoSQL	1.0
+skills	Memory Profiling	2.0
+skills	Performance Profiling	2.0
+skills	Drivers	2.0
+skills	DirectX	1.0
+skills	Unit Tests	1.0
+skills	Reverse Engineering	1.0
+skills	Google Protobuf	1.0
+skills	Windows	1.0
+skills	Code Review	1.0
+skills	CMake Toolchain	1.0
+skills	MacOS	1.0
+skills	Gnu C++	1.0
+skills	Tensorflow	1.0
+skills	Keras	1.0
+skills	PyTorc	1.0
+skills	pymystem3	1.0
+skills	Tomita parser	1.0
+skills	syntax net	1.0
+skills	Data Science	1.0
+skills	Big Data	1.0
+skills	Machine Learning	1.0
+skills	NLP	1.0
+skills	CLI	1.0
+skills	Rider	1.0
+skills	ReSharper	1.0
+skills	unreal engine	1.0

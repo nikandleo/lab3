@@ -1,0 +1,37 @@
+salaries	68334 - 116667	2.0
+salaries	116667 - 165000	13.0
+salaries	213334 - 261667	2.0
+days	avg	9.705882352941176
+days	max	25.0
+days	min	4.0
+experience	От 3 до 6 лет	8.0
+experience	От 1 года до 3 лет	8.0
+experience	Нет опыта	1.0
+employment	Полная занятость	16.0
+employment	Стажировка	1.0
+schedule	Полный день	11.0
+schedule	Гибкий график	4.0
+schedule	Удаленная работа	2.0
+skills	Python	12.0
+skills	Без ключевых навыков	4.0
+skills	SQL	3.0
+skills	Git	4.0
+skills	Django Framework	5.0
+skills	Nginx	2.0
+skills	Redis	3.0
+skills	REST	2.0
+skills	PostgreSQL	4.0
+skills	MySQL	1.0
+skills	Java	1.0
+skills	Linux	1.0
+skills	Unit Testing	1.0
+skills	JavaScript	2.0
+skills	ООП	1.0
+skills	MongoDB	1.0
+skills	Gitlab	1.0
+skills	CI/CD	1.0
+skills	K8S	1.0
+skills	Docker	1.0
+skills	ML	1.0
+skills	Python3.7	1.0
+skills	AIOgram	1.0

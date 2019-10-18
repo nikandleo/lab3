@@ -1,0 +1,22 @@
+salaries	68334 - 116667	2.0
+salaries	116667 - 165000	1.0
+salaries	NAN - NAN	12.0
+days	avg	11.066666666666666
+days	max	31.0
+days	min	3.0
+experience	От 1 года до 3 лет	10.0
+experience	От 3 до 6 лет	5.0
+employment	Полная занятость	15.0
+schedule	Полный день	12.0
+schedule	Гибкий график	3.0
+skills	Работа с базами данных	1.0
+skills	Работа с большим объемом информации	1.0
+skills	Системный анализ	2.0
+skills	UML	3.0
+skills	Информационные технологии	1.0
+skills	СМК	1.0
+skills	Разработка технических заданий	1.0
+skills	Бизнес-анализ	1.0
+skills	SQL	1.0
+skills	REST	1.0
+skills	JSON API	1.0

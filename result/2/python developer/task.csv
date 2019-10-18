@@ -1,0 +1,21 @@
+salaries	68334 - 116667	1.0
+salaries	116667 - 165000	1.0
+salaries	NAN - NAN	2.0
+days	avg	9.0
+days	max	17.0
+days	min	4.0
+experience	От 1 года до 3 лет	3.0
+experience	От 3 до 6 лет	1.0
+employment	Полная занятость	4.0
+schedule	Полный день	3.0
+schedule	Гибкий график	1.0
+skills	Python	3.0
+skills	ML	1.0
+skills	SQL	1.0
+skills	Git	1.0
+skills	PostgreSQL	2.0
+skills	Django Framework	2.0
+skills	Redis	1.0
+skills	Python3.7	1.0
+skills	AIOgram	1.0
+skills	JavaScript	1.0

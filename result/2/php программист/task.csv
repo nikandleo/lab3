@@ -1,0 +1,36 @@
+salaries	68334 - 116667	2.0
+salaries	165000 - 213334	1.0
+salaries	NAN - NAN	5.0
+days	avg	11.25
+days	max	24.0
+days	min	4.0
+experience	От 1 года до 3 лет	4.0
+experience	От 3 до 6 лет	4.0
+employment	Полная занятость	8.0
+schedule	Полный день	5.0
+schedule	Гибкий график	2.0
+schedule	Удаленная работа	1.0
+skills	MySQL	5.0
+skills	MongoDB	1.0
+skills	Git	4.0
+skills	Yii	2.0
+skills	Redis	1.0
+skills	PHP	8.0
+skills	JavaScript	5.0
+skills	CSS3	3.0
+skills	Ajax	2.0
+skills	HTML	4.0
+skills	CSS	4.0
+skills	ООП	3.0
+skills	HTML5	3.0
+skills	PHP5	1.0
+skills	PostgreSQL	1.0
+skills	Linux	1.0
+skills	NoSQL	1.0
+skills	Bash	1.0
+skills	SQL	1.0
+skills	PHP7	1.0
+skills	jQuery	1.0
+skills	marionettejs	1.0
+skills	reactjs	1.0
+skills	Backbone	1.0

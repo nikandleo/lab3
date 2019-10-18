@@ -1,0 +1,90 @@
+salaries	116667 - 165000	19.0
+salaries	165000 - 213334	1.0
+days	avg	11.5
+days	max	23.0
+days	min	4.0
+experience	От 1 года до 3 лет	13.0
+experience	От 3 до 6 лет	6.0
+experience	Нет опыта	1.0
+employment	Полная занятость	19.0
+employment	Проектная работа	1.0
+schedule	Полный день	15.0
+schedule	Гибкий график	3.0
+schedule	Удаленная работа	2.0
+skills	AI	2.0
+skills	Artificial intelligence	2.0
+skills	Machine learning	2.0
+skills	Big Data	3.0
+skills	Predictive analytics	2.0
+skills	Lenear algebra	2.0
+skills	Mathematical Statistics	2.0
+skills	Statistics	2.0
+skills	R	2.0
+skills	Phyton	2.0
+skills	C++	4.0
+skills	Java	3.0
+skills	JavaScript	2.0
+skills	SCALA	2.0
+skills	SCADA	2.0
+skills	Ridge	2.0
+skills	Lasso	2.0
+skills	MapReduce	2.0
+skills	GLM	2.0
+skills	Random Forests	2.0
+skills	Computer Science	2.0
+skills	linear/non-linear regression	2.0
+skills	elastic nets	2.0
+skills	Data Science	3.0
+skills	Data Analytics	2.0
+skills	Data Analysis	3.0
+skills	Data Mining	3.0
+skills	Electrical Engineering	2.0
+skills	Без ключевых навыков	7.0
+skills	SQL	4.0
+skills	Python	9.0
+skills	Git	3.0
+skills	Геометрия	1.0
+skills	Математический анализ	1.0
+skills	Математическое моделирование	2.0
+skills	Математическая статистика	1.0
+skills	MATLAB	2.0
+skills	Статистический анализ	2.0
+skills	Аналитические исследования	1.0
+skills	Mathcad	1.0
+skills	Machine Learning	3.0
+skills	Deep Learning	2.0
+skills	Нейросети	2.0
+skills	Английский язык	1.0
+skills	Обучение и развитие	1.0
+skills	Виды страхования	1.0
+skills	ML	1.0
+skills	Data Scientist	1.0
+skills	Linux	3.0
+skills	Jupyter notebook	1.0
+skills	Анализ данных	1.0
+skills	MySQL	2.0
+skills	PostgreSQL	1.0
+skills	Работа в команде	1.0
+skills	MongoDB	1.0
+skills	Atlassian Confluence	1.0
+skills	PHP	1.0
+skills	Atlassian Jira	1.0
+skills	scikit-learn	1.0
+skills	numpy	1.0
+skills	scipy	1.0
+skills	pandas	1.0
+skills	GitHub	1.0
+skills	Kaggle	1.0
+skills	ШАД	1.0
+skills	CSC	1.0
+skills	SQL Server	1.0
+skills	Neural networks	1.0
+skills	Stream API	1.0
+skills	class-loading	1.0
+skills	Apache Beam	1.0
+skills	gRPC	1.0
+skills	protobuf	1.0
+skills	Go	1.0
+skills	docker	1.0
+skills	gradle	1.0
+skills	Google Cloud Platform	1.0

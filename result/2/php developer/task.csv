@@ -1,0 +1,39 @@
+salaries	68334 - 116667	1.0
+salaries	165000 - 213334	1.0
+salaries	NAN - NAN	3.0
+days	avg	10.6
+days	max	30.0
+days	min	4.0
+experience	От 1 года до 3 лет	3.0
+experience	От 3 до 6 лет	2.0
+employment	Полная занятость	5.0
+schedule	Полный день	3.0
+schedule	Гибкий график	2.0
+skills	PHP	4.0
+skills	Git	2.0
+skills	MySQL	3.0
+skills	Nginx	1.0
+skills	Yii	2.0
+skills	Redis	2.0
+skills	Linux	3.0
+skills	Протоколирование	1.0
+skills	Базы данных	1.0
+skills	ABC-анализ	1.0
+skills	ABC analysis	1.0
+skills	MS SQL	1.0
+skills	API	1.0
+skills	HTML	1.0
+skills	CSS	1.0
+skills	JavaScript	1.0
+skills	frontend	1.0
+skills	SQL	1.0
+skills	jQuery	1.0
+skills	Facebook API	1.0
+skills	Автоматизация процессов	1.0
+skills	Автоматизация продаж	1.0
+skills	Аналитические исследования	1.0
+skills	Маркетинговые исследования	1.0
+skills	Unit Testing	1.0
+skills	Docker	1.0
+skills	Laravel	1.0
+skills	PostgreSQL	1.0

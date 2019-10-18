@@ -1,0 +1,21 @@
+salaries	NAN - NAN	4.0
+days	avg	6.0
+days	max	10.0
+days	min	3.0
+experience	От 3 до 6 лет	3.0
+experience	Нет опыта	1.0
+employment	Полная занятость	4.0
+schedule	Полный день	3.0
+schedule	Гибкий график	1.0
+skills	Java EE	1.0
+skills	SQL	1.0
+skills	Hibernate ORM	1.0
+skills	Code Review	1.0
+skills	Java SE	1.0
+skills	REST	1.0
+skills	SOAP	1.0
+skills	Обучение и развитие	1.0
+skills	Docker	1.0
+skills	Java	1.0
+skills	CI/CD	1.0
+skills	Spring Framework	1.0

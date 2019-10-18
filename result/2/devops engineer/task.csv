@@ -1,0 +1,32 @@
+salaries	165000 - 213334	1.0
+salaries	NAN - NAN	5.0
+days	avg	8.0
+days	max	14.0
+days	min	4.0
+experience	От 1 года до 3 лет	4.0
+experience	От 3 до 6 лет	2.0
+employment	Полная занятость	6.0
+schedule	Полный день	6.0
+skills	Unix	1.0
+skills	Ansible	1.0
+skills	Английский язык	1.0
+skills	Python	2.0
+skills	Docker	3.0
+skills	Kubernetes	1.0
+skills	Amazon	1.0
+skills	Oracle Application Server	1.0
+skills	Настройка серверов Apache	1.0
+skills	Администрирование серверов Linux	2.0
+skills	MySQL	2.0
+skills	Linux	3.0
+skills	PostgreSQL	2.0
+skills	ITIL	1.0
+skills	Bash	1.0
+skills	Perl	1.0
+skills	CI/CD	2.0
+skills	Git	1.0
+skills	Nginx	2.0
+skills	DevOps	1.0
+skills	Ubuntu Server	1.0
+skills	Настройка VPS/VDS серверов	1.0
+skills	Техническая поддержка	1.0

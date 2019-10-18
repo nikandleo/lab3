@@ -1,0 +1,176 @@
+salaries	20000 - 68334	4.0
+salaries	68334 - 116667	17.0
+salaries	116667 - 165000	100.0
+salaries	165000 - 213334	3.0
+salaries	213334 - 261667	2.0
+salaries	358334 - 406667	3.0
+salaries	406667 - 	1.0
+days	avg	11.646153846153846
+days	max	32.0
+days	min	3.0
+experience	От 1 года до 3 лет	64.0
+experience	От 3 до 6 лет	54.0
+experience	Нет опыта	8.0
+experience	Более 6 лет	4.0
+employment	Полная занятость	125.0
+employment	Проектная работа	2.0
+employment	Частичная занятость	2.0
+employment	Стажировка	1.0
+schedule	Полный день	81.0
+schedule	Гибкий график	27.0
+schedule	Удаленная работа	22.0
+skills	PHP	71.0
+skills	HTML	25.0
+skills	CSS	23.0
+skills	ООП	27.0
+skills	MySQL	50.0
+skills	JavaScript	43.0
+skills	Без ключевых навыков	34.0
+skills	Yii	16.0
+skills	CSS3	10.0
+skills	jQuery	16.0
+skills	Backbone	2.0
+skills	1С-Битрикс	7.0
+skills	HTML5	9.0
+skills	PHP5	11.0
+skills	Bootstrap	3.0
+skills	Linux	21.0
+skills	Git	42.0
+skills	MS SQL	3.0
+skills	PostgreSQL	23.0
+skills	RabbitMQ	1.0
+skills	Scrum	3.0
+skills	Drupal	2.0
+skills	Symfony	17.0
+skills	Atlassian Jira	1.0
+skills	Yii2	6.0
+skills	Jetbrains Phpstorm	3.0
+skills	MVC	5.0
+skills	Ubuntu Server	2.0
+skills	Nginx	6.0
+skills	Python	4.0
+skills	Django Framework	1.0
+skills	REST	6.0
+skills	Ajax	9.0
+skills	AngularJS	4.0
+skills	JSON API	1.0
+skills	Web Application Development	1.0
+skills	Laravel	12.0
+skills	SQL	18.0
+skills	Redis	9.0
+skills	Блочная верстка	1.0
+skills	Администрирование серверов Linux	1.0
+skills	Верстка	1.0
+skills	Кроссбраузерная верстка	1.0
+skills	Codeigniter	1.0
+skills	XML	3.0
+skills	MongoDB	7.0
+skills	ReactJS	2.0
+skills	СУБД	1.0
+skills	laravel	3.0
+skills	php7	1.0
+skills	Docker	4.0
+skills	AsyncIO	1.0
+skills	Machine Learning	1.0
+skills	sklearn	1.0
+skills	keras	1.0
+skills	pytorch	1.0
+skills	Node.js	9.0
+skills	Протоколирование	1.0
+skills	Базы данных	1.0
+skills	ABC-анализ	1.0
+skills	ABC analysis	1.0
+skills	API	1.0
+skills	frontend	1.0
+skills	Facebook API	1.0
+skills	Автоматизация процессов	1.0
+skills	Автоматизация продаж	1.0
+skills	Аналитические исследования	1.0
+skills	Маркетинговые исследования	1.0
+skills	Symfony 3.x	1.0
+skills	Symfony 4.x	1.0
+skills	NoSQL	6.0
+skills	Tarantool	1.0
+skills	Golang	4.0
+skills	DDD	1.0
+skills	Agile	1.0
+skills	Xdebug	1.0
+skills	Apache Solr	1.0
+skills	Английский язык	6.0
+skills	Drupal API	1.0
+skills	Sass	2.0
+skills	Less	1.0
+skills	Java	6.0
+skills	Spring Framework	4.0
+skills	Apache Tomcat	3.0
+skills	SOAP	2.0
+skills	Apache Maven	1.0
+skills	BigData	1.0
+skills	Веб-программирование	4.0
+skills	Ember	1.0
+skills	React	2.0
+skills	REST API	1.0
+skills	MQ	1.0
+skills	Hibernate ORM	1.0
+skills	Databases	1.0
+skills	Network protocols	1.0
+skills	Microservices	1.0
+skills	Blockchain	1.0
+skills	gitlab	1.0
+skills	TDD	2.0
+skills	Ruby On Rails	1.0
+skills	Devise	1.0
+skills	Sidekiq	1.0
+skills	Работа в команде	2.0
+skills	Start-up project	1.0
+skills	Офисная техника	1.0
+skills	Data Analysis	1.0
+skills	Time management	1.0
+skills	Business English	1.0
+skills	MyBatis ORM	1.0
+skills	yii2	2.0
+skills	PHP7	4.0
+skills	marionettejs	1.0
+skills	reactjs	1.0
+skills	AWS	2.0
+skills	GO	1.0
+skills	TypeScript	1.0
+skills	Nest.Js	1.0
+skills	Unit Testing	1.0
+skills	Agile Project Management	1.0
+skills	C++	1.0
+skills	CMS Wordpress	1.0
+skills	Spark	1.0
+skills	Hive	1.0
+skills	Kafka	1.0
+skills	Data Warehouse	1.0
+skills	SCALA	1.0
+skills	Ext JS	1.0
+skills	MyBatis	1.0
+skills	ГИС	1.0
+skills	NixOS	1.0
+skills	Typescript	1.0
+skills	Socket.io	1.0
+skills	Bash	1.0
+skills	Управление командой	1.0
+skills	VCS	1.0
+skills	full stack	1.0
+skills	Backend	1.0
+skills	Zend Framework	2.0
+skills	XSS	1.0
+skills	SCRF	1.0
+skills	APC	1.0
+skills	Memcached	1.0
+skills	E-Commerce	1.0
+skills	react	1.0
+skills	ES9	1.0
+skills	Front-end	1.0
+skills	Back-end	1.0
+skills	Teamleading	1.0
+skills	Sphinx	1.0
+skills	Magento	1.0
+skills	PHPUnit	2.0
+skills	Kubernetes	1.0
+skills	Software-as-a-Service	1.0
+skills	Terraform	1.0
+skills	GitLab	1.0

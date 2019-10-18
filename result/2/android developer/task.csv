@@ -1,0 +1,24 @@
+salaries	116667 - 165000	1.0
+salaries	NAN - NAN	7.0
+days	avg	5.5
+days	max	10.0
+days	min	4.0
+experience	От 1 года до 3 лет	6.0
+experience	От 3 до 6 лет	2.0
+employment	Полная занятость	7.0
+employment	Частичная занятость	1.0
+schedule	Гибкий график	5.0
+schedule	Полный день	2.0
+schedule	Удаленная работа	1.0
+skills	Java	4.0
+skills	Android SDK	3.0
+skills	SQLite	1.0
+skills	ООП	2.0
+skills	Android	3.0
+skills	JavaScript	1.0
+skills	Kotlin	3.0
+skills	SQL	1.0
+skills	RxJava	1.0
+skills	Retrofit	1.0
+skills	Dagger2	1.0
+skills	Firebase	1.0

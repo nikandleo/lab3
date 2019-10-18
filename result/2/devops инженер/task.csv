@@ -1,0 +1,25 @@
+salaries	68334 - 116667	1.0
+salaries	116667 - 165000	1.0
+salaries	NAN - NAN	5.0
+days	avg	19.142857142857142
+days	max	30.0
+days	min	4.0
+experience	От 1 года до 3 лет	4.0
+experience	От 3 до 6 лет	2.0
+experience	Нет опыта	1.0
+employment	Полная занятость	7.0
+schedule	Полный день	6.0
+schedule	Удаленная работа	1.0
+skills	Linux	2.0
+skills	Kubernetes	1.0
+skills	Docker	1.0
+skills	GitLab	1.0
+skills	Agile Project Management	1.0
+skills	Оценка рисков	1.0
+skills	Английский язык	1.0
+skills	Управление рисками	1.0
+skills	NoSQL	1.0
+skills	Big Data	1.0
+skills	hadoop	1.0
+skills	Aerospike	1.0
+skills	MongoDB	1.0

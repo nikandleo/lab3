@@ -1,0 +1,98 @@
+salaries	20000 - 68334	4.0
+salaries	68334 - 116667	57.0
+salaries	116667 - 165000	13.0
+salaries	165000 - 213334	1.0
+days	avg	10.6
+days	max	32.0
+days	min	3.0
+experience	От 1 года до 3 лет	38.0
+experience	От 3 до 6 лет	30.0
+experience	Нет опыта	7.0
+employment	Полная занятость	75.0
+schedule	Полный день	49.0
+schedule	Гибкий график	20.0
+schedule	Удаленная работа	6.0
+skills	C++	7.0
+skills	ООП	14.0
+skills	C#	35.0
+skills	Без ключевых навыков	26.0
+skills	.NET	5.0
+skills	JavaScript	13.0
+skills	ASP.NET	16.0
+skills	MVC	8.0
+skills	jQuery	5.0
+skills	SQL	12.0
+skills	С#	8.0
+skills	Unity	5.0
+skills	3D	4.0
+skills	Разработка компьютерных Игр	4.0
+skills	Game Programming	4.0
+skills	Java	3.0
+skills	NoSQL	2.0
+skills	WPF	8.0
+skills	.NET Framework	18.0
+skills	MS SQL	11.0
+skills	MS SQL Server	5.0
+skills	Team management	1.0
+skills	руководство командой разработчиков	1.0
+skills	Git	6.0
+skills	HTML	5.0
+skills	WCF	2.0
+skills	CSS	4.0
+skills	Bootstrap	2.0
+skills	Ajax	2.0
+skills	HTML5	3.0
+skills	React	3.0
+skills	Redux	1.0
+skills	Angular 2+	1.0
+skills	LINQ	3.0
+skills	Xamarin	2.0
+skills	iOS	1.0
+skills	Android	1.0
+skills	Objective-C	1.0
+skills	UI	1.0
+skills	UX	1.0
+skills	.NET Framework 4.6+	5.0
+skills	.NET Core	8.0
+skills	RabbitMQ	5.0
+skills	SOLID	5.0
+skills	Entity Framework	10.0
+skills	ELK	5.0
+skills	Microsoft Azure Service Fabric	5.0
+skills	SOA	5.0
+skills	TeamCity	6.0
+skills	XAML	1.0
+skills	Transact-SQL	1.0
+skills	.Net Core	2.0
+skills	NUnit	1.0
+skills	IIS	1.0
+skills	REST	2.0
+skills	.NET (C#)	1.0
+skills	REST API	1.0
+skills	микросервисная архитектура	1.0
+skills	.Net	2.0
+skills	Английский язык	4.0
+skills	MS Visual Studio	5.0
+skills	Аналитическое мышление	1.0
+skills	Управление проектами	1.0
+skills	Работа в команде	1.0
+skills	Разработка ПО	1.0
+skills	MongoDB	2.0
+skills	Микросервисы	2.0
+skills	Octopus	1.0
+skills	Google Docs	1.0
+skills	Организация стажировок	1.0
+skills	CAM	1.0
+skills	CAD	1.0
+skills	Scrum	1.0
+skills	CAD/CAM	1.0
+skills	Agile Project Management	1.0
+skills	Gitlab	1.0
+skills	Teamleading	1.0
+skills	Kanban	1.0
+skills	.Net 4.0	1.0
+skills	ORM	1.0
+skills	JSF	1.0
+skills	Azure	1.0
+skills	AngularJS	1.0
+skills	KnockoutJS	1.0
