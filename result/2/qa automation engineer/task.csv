@@ -1,18 +1,20 @@
-salaries	NAN - NAN	3.0
-days	avg	7.333333333333333
-days	max	9.0
-days	min	4.0
-experience	От 1 года до 3 лет	2.0
-experience	От 3 до 6 лет	1.0
-employment	Полная занятость	3.0
+salaries	NAN - NAN	5.0
+days	avg	13.4
+days	max	28.0
+days	min	3.0
+experience	От 1 года до 3 лет	5.0
+employment	Полная занятость	5.0
 schedule	Полный день	3.0
-skills	Ruby	1.0
-skills	Python	1.0
-skills	Linux	1.0
-skills	Тестирование	1.0
-skills	QA	1.0
-skills	.NET Framework	1.0
-skills	C#	1.0
-skills	SQL	1.0
-skills	PowerShell	1.0
-skills	LINQ	1.0
+schedule	Удаленная работа	2.0
+skills	Black box testing	1.0
+skills	Java	1.0
+skills	Git	1.0
+skills	QA	4.0
+skills	Тестирование	4.0
+skills	Функциональное тестирование	1.0
+skills	Автоматизация	1.0
+skills	автоматизация тестирования	1.0
+skills	UI тестирование	1.0
+skills	Ruby	3.0
+skills	Python	3.0
+skills	Linux	3.0

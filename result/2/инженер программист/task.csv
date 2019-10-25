@@ -1,24 +1,29 @@
-salaries	20000 - 68334	1.0
-salaries	68334 - 116667	1.0
-salaries	116667 - 165000	1.0
-salaries	NAN - NAN	2.0
-days	avg	19.8
-days	max	33.0
-days	min	4.0
-experience	От 1 года до 3 лет	3.0
-experience	Нет опыта	1.0
-experience	От 3 до 6 лет	1.0
-employment	Полная занятость	5.0
-schedule	Полный день	4.0
-schedule	Гибкий график	1.0
+salaries	18500 - 61556	2.0
+salaries	61556 - 104612	5.0
+salaries	NAN - NAN	5.0
+days	avg	9.833333333333334
+days	max	28.0
+days	min	0.0
+experience	От 1 года до 3 лет	9.0
+experience	От 3 до 6 лет	3.0
+employment	Полная занятость	12.0
+schedule	Полный день	12.0
 skills	MS SQL	1.0
-skills	SQL	1.0
-skills	Oracle Pl/SQL	1.0
+skills	SQL	2.0
+skills	Oracle Pl/SQL	2.0
 skills	IBSO	1.0
-skills	C#	1.0
-skills	ASP.NET	1.0
-skills	Создание сайтов	1.0
-skills	CSS	1.0
-skills	HTML	1.0
-skills	MS SQL Server	1.0
+skills	Java	1.0
+skills	Bekchoff	1.0
+skills	Modicon	1.0
+skills	Citect SCADA	1.0
+skills	ПЛК Beckhoff	1.0
+skills	SE Modicon	1.0
+skills	1С: Предприятие 8	1.0
 skills	1С программирование	1.0
+skills	1С: Документооборот	1.0
+skills	Схемотехника	1.0
+skills	Электроника	1.0
+skills	Опыт в создании ПО для микроконтроллеров и встраиваемых систем	1.0
+skills	C/C++	1.0
+skills	Altium Designer	1.0
+skills	Git	1.0

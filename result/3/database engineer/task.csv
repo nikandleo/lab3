@@ -1,19 +1,36 @@
-salaries	116667 - 165000	3.0
-days	avg	5.666666666666667
-days	max	7.0
-days	min	5.0
-experience	От 3 до 6 лет	3.0
-employment	Полная занятость	3.0
-schedule	Полный день	2.0
+salaries	61556 - 104612	16.0
+days	avg	8.8125
+days	max	28.0
+days	min	0.0
+experience	От 1 года до 3 лет	10.0
+experience	От 3 до 6 лет	4.0
+experience	Нет опыта	2.0
+employment	Полная занятость	16.0
+schedule	Полный день	15.0
 schedule	Удаленная работа	1.0
-skills	Без ключевых навыков	1.0
-skills	MySQL	1.0
-skills	Shell Scripting	1.0
-skills	Percona	1.0
-skills	Databases	1.0
-skills	Python	2.0
+skills	Oracle Pl/SQL	6.0
+skills	SQL	5.0
+skills	Без ключевых навыков	7.0
+skills	PostgreSQL	3.0
+skills	Разработка ПО	1.0
+skills	Работа с базами данных	1.0
+skills	pgSQL	1.0
+skills	ORACLE	4.0
+skills	Oracle 10G	1.0
+skills	Oracle 11G	1.0
+skills	PL/QSL	1.0
+skills	Delphi	1.0
+skills	Oracle 12c	1.0
+skills	Оптимизация запросов	1.0
+skills	PL+	1.0
+skills	IBSO	1.0
 skills	Linux	1.0
+skills	Oracle Siebel CRM	1.0
+skills	JavaScript	1.0
+skills	HTML5	1.0
+skills	CSS	1.0
+skills	jQuery	1.0
+skills	XPath	1.0
 skills	MS SQL	1.0
-skills	PowerShell	1.0
-skills	Perl	1.0
-skills	Git	1.0
+skills	СУБД	1.0
+skills	Bash	1.0

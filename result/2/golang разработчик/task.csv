@@ -1,20 +1,15 @@
-salaries	NAN - NAN	3.0
-days	avg	10.0
-days	max	14.0
-days	min	7.0
-experience	От 1 года до 3 лет	3.0
-employment	Полная занятость	3.0
-schedule	Гибкий график	1.0
+salaries	NAN - NAN	2.0
+days	avg	7.0
+days	max	10.0
+days	min	4.0
+experience	От 1 года до 3 лет	2.0
+employment	Полная занятость	2.0
 schedule	Удаленная работа	1.0
 schedule	Полный день	1.0
-skills	Golang	2.0
+skills	Golang	1.0
 skills	REST	1.0
 skills	Databases	1.0
 skills	Network protocols	1.0
 skills	Microservices	1.0
 skills	Blockchain	1.0
 skills	Git	1.0
-skills	Python	1.0
-skills	MongoDB	1.0
-skills	Redis	1.0
-skills	RabbitMQ	1.0

@@ -1,10 +1,24 @@
-salaries	116667 - 165000	3.0
-days	avg	13.333333333333334
-days	max	32.0
-days	min	3.0
-experience	От 1 года до 3 лет	2.0
+salaries	61556 - 104612	3.0
+salaries	104612 - 147667	3.0
+days	avg	9.166666666666666
+days	max	24.0
+days	min	0.0
+experience	От 1 года до 3 лет	5.0
 experience	От 3 до 6 лет	1.0
-employment	Полная занятость	3.0
-schedule	Полный день	2.0
-schedule	Гибкий график	1.0
+employment	Полная занятость	6.0
+schedule	Полный день	5.0
+schedule	Сменный график	1.0
 skills	Без ключевых навыков	3.0
+skills	Bash	1.0
+skills	Linux	2.0
+skills	Asterisk	1.0
+skills	Python	1.0
+skills	Администрирование серверов Linux	2.0
+skills	Unix	1.0
+skills	СУБД	1.0
+skills	Администрирование сетевого оборудования	1.0
+skills	MS SQL	1.0
+skills	Администрирование серверов Windows	1.0
+skills	Настройка ПК	1.0
+skills	MS Exchange	1.0
+skills	Настройка сетевых подключений	1.0

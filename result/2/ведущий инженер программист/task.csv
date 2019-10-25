@@ -1,7 +1,13 @@
-salaries	NAN - NAN	2.0
-days	avg	10.5
-days	max	17.0
-days	min	4.0
-experience	От 3 до 6 лет	2.0
-employment	Полная занятость	2.0
-schedule	Полный день	2.0
+salaries	NAN - NAN	4.0
+days	avg	9.25
+days	max	20.0
+days	min	3.0
+experience	От 3 до 6 лет	3.0
+experience	От 1 года до 3 лет	1.0
+employment	Полная занятость	4.0
+schedule	Полный день	4.0
+skills	контроллеры	1.0
+skills	Чтение электросхем	1.0
+skills	3 группа по электробезопасности	1.0
+skills	Техническое обслуживание	1.0
+skills	Пуско-наладочные работы	1.0

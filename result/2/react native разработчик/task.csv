@@ -1,11 +1,13 @@
-salaries	68334 - 116667	1.0
-days	avg	23.0
-days	max	23.0
-days	min	23.0
+salaries	NAN - NAN	1.0
+days	avg	5.0
+days	max	5.0
+days	min	5.0
 experience	От 1 года до 3 лет	1.0
 employment	Полная занятость	1.0
-schedule	Полный день	1.0
-skills	CSS	1.0
-skills	HTML	1.0
-skills	Мобильность	1.0
-skills	Умение работать в коллективе	1.0
+schedule	Гибкий график	1.0
+skills	React Native	1.0
+skills	JavaScript	1.0
+skills	Git	1.0
+skills	gitflow	1.0
+skills	iOS	1.0
+skills	Android	1.0

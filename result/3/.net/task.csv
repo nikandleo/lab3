@@ -1,98 +1,108 @@
-salaries	20000 - 68334	4.0
-salaries	68334 - 116667	57.0
-salaries	116667 - 165000	13.0
-salaries	165000 - 213334	1.0
-days	avg	10.6
-days	max	32.0
-days	min	3.0
-experience	От 1 года до 3 лет	38.0
-experience	От 3 до 6 лет	30.0
-experience	Нет опыта	7.0
-employment	Полная занятость	75.0
-schedule	Полный день	49.0
-schedule	Гибкий график	20.0
-schedule	Удаленная работа	6.0
-skills	C++	7.0
-skills	ООП	14.0
-skills	C#	35.0
-skills	Без ключевых навыков	26.0
-skills	.NET	5.0
+salaries	18500 - 61556	2.0
+salaries	61556 - 104612	15.0
+salaries	104612 - 147667	35.0
+salaries	147667 - 190723	20.0
+salaries	190723 - 233778	1.0
+days	avg	9.32876712328767
+days	max	28.0
+days	min	0.0
+experience	От 1 года до 3 лет	49.0
+experience	От 3 до 6 лет	19.0
+experience	Нет опыта	4.0
+experience	Более 6 лет	1.0
+employment	Полная занятость	73.0
+schedule	Полный день	58.0
+schedule	Удаленная работа	8.0
+schedule	Гибкий график	7.0
+skills	Git	13.0
+skills	TFS	2.0
+skills	ASP.NET MVC	3.0
+skills	SQL	13.0
+skills	Unit Testing	4.0
+skills	MVC	13.0
+skills	C#	34.0
+skills	ASP.NET	23.0
 skills	JavaScript	13.0
-skills	ASP.NET	16.0
-skills	MVC	8.0
-skills	jQuery	5.0
-skills	SQL	12.0
-skills	С#	8.0
-skills	Unity	5.0
-skills	3D	4.0
-skills	Разработка компьютерных Игр	4.0
-skills	Game Programming	4.0
-skills	Java	3.0
-skills	NoSQL	2.0
-skills	WPF	8.0
-skills	.NET Framework	18.0
-skills	MS SQL	11.0
-skills	MS SQL Server	5.0
-skills	Team management	1.0
-skills	руководство командой разработчиков	1.0
-skills	Git	6.0
-skills	HTML	5.0
-skills	WCF	2.0
-skills	CSS	4.0
+skills	jQuery	7.0
+skills	Без ключевых навыков	27.0
+skills	MS SQL	12.0
+skills	WCF	4.0
+skills	.NET Framework	17.0
+skills	MS Visual Studio	7.0
+skills	Visual Studio C#	2.0
+skills	MS SQL Server	9.0
+skills	HTML	8.0
+skills	Transact-SQL	3.0
+skills	CSS	7.0
 skills	Bootstrap	2.0
-skills	Ajax	2.0
+skills	Ajax	3.0
 skills	HTML5	3.0
 skills	React	3.0
-skills	Redux	1.0
+skills	Redux	2.0
 skills	Angular 2+	1.0
-skills	LINQ	3.0
-skills	Xamarin	2.0
-skills	iOS	1.0
-skills	Android	1.0
-skills	Objective-C	1.0
-skills	UI	1.0
-skills	UX	1.0
-skills	.NET Framework 4.6+	5.0
-skills	.NET Core	8.0
-skills	RabbitMQ	5.0
-skills	SOLID	5.0
-skills	Entity Framework	10.0
-skills	ELK	5.0
-skills	Microsoft Azure Service Fabric	5.0
-skills	SOA	5.0
-skills	TeamCity	6.0
-skills	XAML	1.0
-skills	Transact-SQL	1.0
-skills	.Net Core	2.0
-skills	NUnit	1.0
-skills	IIS	1.0
-skills	REST	2.0
-skills	.NET (C#)	1.0
+skills	AngularJS	3.0
+skills	Angular 5	1.0
+skills	ООП	10.0
+skills	С#	6.0
+skills	Unity	2.0
+skills	3D	1.0
+skills	Game Programming	1.0
+skills	Организация стажировок	1.0
+skills	Разработка компьютерных Игр	1.0
+skills	.NET Core	1.0
 skills	REST API	1.0
 skills	микросервисная архитектура	1.0
-skills	.Net	2.0
-skills	Английский язык	4.0
-skills	MS Visual Studio	5.0
-skills	Аналитическое мышление	1.0
-skills	Управление проектами	1.0
-skills	Работа в команде	1.0
-skills	Разработка ПО	1.0
-skills	MongoDB	2.0
-skills	Микросервисы	2.0
-skills	Octopus	1.0
-skills	Google Docs	1.0
-skills	Организация стажировок	1.0
-skills	CAM	1.0
-skills	CAD	1.0
-skills	Scrum	1.0
-skills	CAD/CAM	1.0
-skills	Agile Project Management	1.0
-skills	Gitlab	1.0
-skills	Teamleading	1.0
-skills	Kanban	1.0
-skills	.Net 4.0	1.0
+skills	Web Forms	1.0
+skills	SOLID	1.0
+skills	.NET	2.0
+skills	REST	1.0
+skills	SOAP	1.0
+skills	WSDL	1.0
 skills	ORM	1.0
-skills	JSF	1.0
-skills	Azure	1.0
-skills	AngularJS	1.0
-skills	KnockoutJS	1.0
+skills	MES	2.0
+skills	ORACLE	2.0
+skills	PostgreSQL	6.0
+skills	Entity Framework	3.0
+skills	NoSQL	1.0
+skills	RabbitMQ	2.0
+skills	asp.net mvc	1.0
+skills	Elasticsearch	1.0
+skills	Selenium	1.0
+skills	Windows Forms	4.0
+skills	LINQ	2.0
+skills	уверенные знания C#, .Net Framfork 4.0, 4.5, ASP NET	1.0
+skills	javaskript	1.0
+skills	Oracle Pl/SQL	1.0
+skills	FirebirdSQL	1.0
+skills	1С программирование	1.0
+skills	react	1.0
+skills	.net	1.0
+skills	JS	1.0
+skills	WPF	1.0
+skills	NHibernate	1.0
+skills	Базы данных	1.0
+skills	VR	1.0
+skills	SVN	3.0
+skills	Bitbucket	1.0
+skills	AR	1.0
+skills	Unity3d	1.0
+skills	Объектно-ориентированное программирование	1.0
+skills	.net core	1.0
+skills	ADO.NET	2.0
+skills	Microsoft Visual Studio	1.0
+skills	XML	3.0
+skills	Developer Express	1.0
+skills	Linux	1.0
+skills	MySQL	1.0
+skills	WEB API	1.0
+skills	Redis	1.0
+skills	EntityFramework	1.0
+skills	Web Application Development	1.0
+skills	Xamarin	1.0
+skills	Scrum	1.0
+skills	Английский язык	1.0
+skills	C++	1.0
+skills	CAD/CAM	1.0
+skills	Agile Project Management	2.0
+skills	Gitlab	1.0
+skills	Разработка CMS	1.0

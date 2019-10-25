@@ -1,10 +1,17 @@
-salaries	20000 - 68334	2.0
-days	avg	23.0
-days	max	24.0
-days	min	22.0
-experience	От 1 года до 3 лет	2.0
+salaries	18500 - 61556	1.0
+salaries	NAN - NAN	1.0
+days	avg	4.0
+days	max	7.0
+days	min	1.0
+experience	От 1 года до 3 лет	1.0
+experience	От 3 до 6 лет	1.0
 employment	Полная занятость	2.0
 schedule	Полный день	2.0
-skills	Внутренний контроль	1.0
-skills	Базы данных	1.0
-skills	Анализ данных	1.0
+skills	Java	1.0
+skills	SQL	1.0
+skills	Java SE	1.0
+skills	XML	1.0
+skills	ООП	1.0
+skills	XML/Xslt	1.0
+skills	JMS	1.0
+skills	MQ	1.0

@@ -1,19 +1,18 @@
-salaries	68334 - 116667	2.0
+salaries	18500 - 61556	1.0
 salaries	NAN - NAN	1.0
-days	avg	4.0
+days	avg	4.5
 days	max	5.0
-days	min	3.0
-experience	От 1 года до 3 лет	3.0
-employment	Полная занятость	3.0
-schedule	Полный день	3.0
-skills	C#	2.0
-skills	ASP.NET	1.0
-skills	SQL	1.0
-skills	HTML	1.0
-skills	.NET Framework	2.0
-skills	MS Visual Studio	1.0
+days	min	4.0
+experience	От 1 года до 3 лет	2.0
+employment	Полная занятость	2.0
+schedule	Полный день	2.0
+skills	MS SQL	1.0
 skills	JavaScript	1.0
-skills	CSS	1.0
-skills	WPF	1.0
-skills	Английский язык	1.0
+skills	C#	1.0
+skills	.NET Framework	1.0
+skills	XML	1.0
+skills	ООП	1.0
+skills	ADO.NET	1.0
+skills	Windows Forms	1.0
+skills	Developer Express	1.0
 skills	Git	1.0

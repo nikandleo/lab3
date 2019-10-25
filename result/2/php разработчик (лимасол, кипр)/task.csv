@@ -1,17 +1,17 @@
-salaries	NAN - NAN	1.0
-days	avg	23.0
-days	max	23.0
-days	min	23.0
-experience	От 3 до 6 лет	1.0
-employment	Полная занятость	1.0
-schedule	Полный день	1.0
-skills	Yii2	1.0
-skills	PHP	1.0
-skills	PostgreSQL	1.0
-skills	PHP7	1.0
-skills	JavaScript	1.0
-skills	Redis	1.0
-skills	HTML	1.0
-skills	HTML5	1.0
-skills	CSS	1.0
-skills	Sphinx	1.0
+salaries	NAN - NAN	3.0
+days	avg	26.0
+days	max	26.0
+days	min	26.0
+experience	От 3 до 6 лет	3.0
+employment	Полная занятость	3.0
+schedule	Полный день	3.0
+skills	Yii2	3.0
+skills	PHP	3.0
+skills	PostgreSQL	3.0
+skills	PHP7	3.0
+skills	JavaScript	3.0
+skills	Redis	3.0
+skills	HTML	3.0
+skills	HTML5	3.0
+skills	CSS	3.0
+skills	Sphinx	3.0

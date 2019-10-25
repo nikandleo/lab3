@@ -1,11 +1,34 @@
-salaries	NAN - NAN	2.0
-days	avg	16.0
-days	max	21.0
-days	min	11.0
-experience	От 1 года до 3 лет	2.0
-employment	Полная занятость	2.0
-schedule	Полный день	2.0
-skills	PHP	1.0
-skills	ООП	1.0
-skills	MS SQL	1.0
+salaries	61556 - 104612	2.0
+salaries	190723 - 233778	1.0
+salaries	NAN - NAN	3.0
+days	avg	13.5
+days	max	25.0
+days	min	0.0
+experience	От 1 года до 3 лет	6.0
+employment	Полная занятость	6.0
+schedule	Полный день	6.0
+skills	Backend	1.0
+skills	Node.js	2.0
+skills	PostgreSQL	1.0
+skills	SQL	1.0
+skills	Scrum	1.0
+skills	Ruby On Rails	2.0
 skills	Веб-программирование	1.0
+skills	HTML	2.0
+skills	PHP	1.0
+skills	Разработка ПО	1.0
+skills	Администрирование сайтов	1.0
+skills	Управление проектами	1.0
+skills	CSS	1.0
+skills	Java	1.0
+skills	Ruby	1.0
+skills	.NET Framework	2.0
+skills	CSS 3	1.0
+skills	HTML 5	1.0
+skills	Angular 2	1.0
+skills	ASP.NET	2.0
+skills	MVC5	1.0
+skills	Net Core	1.0
+skills	С#	1.0
+skills	MS SQL Server	1.0
+skills	MVC	1.0

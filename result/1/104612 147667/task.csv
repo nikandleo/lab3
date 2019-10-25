@@ -1,0 +1,173 @@
+vacancies_name	программист 1с	4.0
+vacancies_name	программист с++	3.0
+vacancies_name	java разработчик	3.0
+vacancies_name	php developer (со знанием английского языка)	3.0
+vacancies_name	программист .net	2.0
+vacancies_name	node.js программист	2.0
+vacancies_name	ios разработчик	2.0
+vacancies_name	senior java разработчик	2.0
+vacancies_name	программист 1c	2.0
+vacancies_name	java программист (back end)	1.0
+vacancies_name	fullstack разработчик (node.js)	1.0
+vacancies_name	python go developer (python go разработчик)	1.0
+vacancies_name	full stack developer	1.0
+vacancies_name	руководитель проектов 1с	1.0
+vacancies_name	python developer	1.0
+vacancies_name	разработчик python backend	1.0
+vacancies_name	программист php (laravel)	1.0
+vacancies_name	математик программист с++	1.0
+vacancies_name	бэк энд разработчик (node.js,senior)	1.0
+vacancies_name	frontend разработчик	1.0
+vacancies_name	ведущий web разработчик руководитель группы	1.0
+vacancies_name	sql разработчик	1.0
+vacancies_name	разработчик .net (c#, asp.net core mvc api)	1.0
+vacancies_name	программист js	1.0
+vacancies_name	программист java	1.0
+vacancies_name	web разработчик (javascript , php)	1.0
+vacancies_name	c# разработчик приложения для автоматизации обработки деталей на лазерных станках	1.0
+vacancies_name	математик программист c++ в г. коломна московской области	1.0
+vacancies_name	senior php разработчик	1.0
+vacancies_name	frontend разработчик (java script)	1.0
+vacancies_name	ux ui дизайнер	1.0
+vacancies_name	react js developer (проект для банка)	1.0
+vacancies_name	middle ios developer	1.0
+vacancies_name	php программист (middle senior)	1.0
+vacancies_name	frontend backend разработчик	1.0
+vacancies_name	devops специалист (в екатеринбург)	1.0
+vacancies_name	1с разработчик (middle senior) в самаре	1.0
+vacancies_name	программист 1с (бп)	1.0
+vacancies_name	middle senior python developer	1.0
+vacancies_name	разработчик баз данных	1.0
+vacancies_name	python разработчик	1.0
+vacancies_name	web программист	1.0
+vacancies_name	системный архитектор	1.0
+vacancies_name	инженер программист 1с	1.0
+vacancies_name	руководитель группы внедрения (проекта 1с)	1.0
+vacancies_name	full stack web developer	1.0
+vacancies_name	web разработчик java разработчик	1.0
+vacancies_name	фронтенд разработчик (react)	1.0
+vacancies_name	js разработчик	1.0
+vacancies_name	с++ developer (в г. рязань)	1.0
+vacancies_name	веб программист	1.0
+vacancies_name	разработчик 1с	1.0
+days	avg	10.666666666666666
+days	max	28.0
+days	min	0.0
+experience	От 1 года до 3 лет	39.0
+experience	От 3 до 6 лет	21.0
+experience	Нет опыта	3.0
+experience	Более 6 лет	3.0
+employment	Полная занятость	66.0
+schedule	Полный день	46.0
+schedule	Удаленная работа	13.0
+schedule	Гибкий график	7.0
+skills	1С программирование	4.0
+skills	WMS	1.0
+skills	1С: Управление Торговлей	4.0
+skills	C#	2.0
+skills	PHP, MySQL, JavaScript, CSS, HTML	1.0
+skills	Objective-C	2.0
+skills	Agile Project Management	3.0
+skills	Git	13.0
+skills	iOS	3.0
+skills	Английский язык	4.0
+skills	Symfony	6.0
+skills	PHP	9.0
+skills	Laravel	1.0
+skills	PostgreSQL	5.0
+skills	composer	1.0
+skills	ElasticSearch	1.0
+skills	Transact-SQL	4.0
+skills	JavaScript	13.0
+skills	Node.js	4.0
+skills	.NET Framework	1.0
+skills	ASP.NET	2.0
+skills	MVC	3.0
+skills	1С: Предприятие 8	3.0
+skills	1С: Зарплата и управление персоналом	3.0
+skills	Обновление конфигурации 1С	1.0
+skills	MS SQL Server	2.0
+skills	1С: Бухгалтерия	2.0
+skills	Управление проектами	1.0
+skills	Бизнес-анализ	1.0
+skills	1С: Розница	1.0
+skills	ООП	4.0
+skills	SQL	7.0
+skills	MS SQL	5.0
+skills	SWIFT Alliance	1.0
+skills	Swift	1.0
+skills	CSS	7.0
+skills	jQuery	3.0
+skills	HTML5	3.0
+skills	Vue.js	1.0
+skills	CSS3	3.0
+skills	AngularJS	1.0
+skills	Entity Framework	1.0
+skills	SQL Server	1.0
+skills	Less	1.0
+skills	Sass	1.0
+skills	Linux	7.0
+skills	angular 4+	1.0
+skills	remote	1.0
+skills	1C: Бухгалтерия	2.0
+skills	1С: Управление нашей фирмой	1.0
+skills	1С: Предприятие	1.0
+skills	Python	3.0
+skills	Django Rest Framework	1.0
+skills	Django	1.0
+skills	Java	6.0
+skills	Spring Framework	2.0
+skills	Hibernate ORM	2.0
+skills	MySQL	7.0
+skills	HTML	5.0
+skills	MongoDB	3.0
+skills	kotlin	1.0
+skills	HTTP	1.0
+skills	iOS SDK	1.0
+skills	Yii	1.0
+skills	C++	2.0
+skills	Математическое программирование	1.0
+skills	STL	1.0
+skills	Разработка 1С	1.0
+skills	Бухгалтерская отчетность	1.0
+skills	Бухгалтерский учет	2.0
+skills	Flask	1.0
+skills	REST	4.0
+skills	TypeScript	1.0
+skills	Unit Testing	1.0
+skills	ASP.NET MVC	1.0
+skills	PHP5	1.0
+skills	XML	1.0
+skills	JSON	1.0
+skills	Java Core	1.0
+skills	Jira	1.0
+skills	SOAP	1.0
+skills	API	3.0
+skills	СУБД	1.0
+skills	Базы данных	2.0
+skills	Django Framework	1.0
+skills	Nginx	1.0
+skills	Redis	1.0
+skills	Axure RP	1.0
+skills	UX	1.0
+skills	UI	1.0
+skills	Web-дизайн	1.0
+skills	Проектирование пользовательских интерфейсов	1.0
+skills	Дизайн интерфейсов	1.0
+skills	Веб-дизайн	1.0
+skills	Дизайн	1.0
+skills	Web Design	1.0
+skills	Прототипирование	1.0
+skills	laravel	1.0
+skills	react	1.0
+skills	redux	1.0
+skills	vue	1.0
+skills	1С: Документооборот	1.0
+skills	1С: Торговля и склад	1.0
+skills	1С: Зарплата и кадры	1.0
+skills	1С: Управление Производственным Предприятием	1.0
+skills	1С: Бухгалтерия и склад	1.0
+skills	1С: Торговля	1.0
+skills	1С: Склад	1.0
+skills	React	1.0
+skills	Кроссбраузерная верстка	1.0

@@ -1,32 +1,50 @@
-salaries	NAN - NAN	6.0
-days	avg	12.833333333333334
+salaries	NAN - NAN	7.0
+days	avg	15.0
 days	max	25.0
-days	min	3.0
-experience	От 1 года до 3 лет	3.0
+days	min	1.0
+experience	От 1 года до 3 лет	4.0
 experience	От 3 до 6 лет	3.0
-employment	Полная занятость	6.0
-schedule	Полный день	3.0
+employment	Полная занятость	7.0
+schedule	Полный день	4.0
 schedule	Гибкий график	2.0
 schedule	Удаленная работа	1.0
-skills	Java	4.0
-skills	Spring Framework	4.0
 skills	Git	2.0
-skills	Java SE	2.0
+skills	Community Cloud	1.0
+skills	Scrum	1.0
+skills	Mulesoft	1.0
+skills	Mulesoft Anypoint Studio	1.0
+skills	Confluence	1.0
+skills	Английский язык	1.0
+skills	Java	5.0
+skills	Java 7	1.0
+skills	Java 8	1.0
+skills	UML	1.0
+skills	ORM	1.0
+skills	openEHR	1.0
+skills	Apache Tomcat	1.0
+skills	IoC	1.0
+skills	JIRA	1.0
+skills	Mercurial	1.0
+skills	TeamCity	1.0
+skills	Intellij IDEA	1.0
+skills	Maven	1.0
+skills	Jmeter	1.0
+skills	SOAP (WSDL)	1.0
+skills	WS-security	1.0
+skills	RabbitMQ	1.0
+skills	infinispan	1.0
+skills	Spring Framework	5.0
+skills	Java SE	1.0
 skills	Kotlin	1.0
 skills	Kafka	1.0
 skills	ООП	1.0
-skills	Multithread Programming	1.0
-skills	PostgreSQL	1.0
-skills	SQL	3.0
-skills	ORACLE	1.0
-skills	Linux	1.0
-skills	REST	2.0
-skills	JUnit	1.0
-skills	Mockito	1.0
+skills	SOAP	1.0
+skills	TDD	1.0
+skills	Ajax	1.0
+skills	SQL	1.0
+skills	Java EE	2.0
+skills	Hadoop	1.0
+skills	Spark	1.0
+skills	Hibernate ORM	1.0
 skills	Apache Maven	1.0
-skills	SVN	1.0
-skills	Mercurial	1.0
-skills	JavaScript	2.0
-skills	UI	1.0
-skills	Spting data	1.0
-skills	J2EE	1.0
+skills	Design Patterns	1.0

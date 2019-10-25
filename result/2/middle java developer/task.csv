@@ -1,17 +1,23 @@
 salaries	NAN - NAN	2.0
-days	avg	9.5
-days	max	16.0
-days	min	3.0
+days	avg	13.0
+days	max	19.0
+days	min	7.0
 experience	От 1 года до 3 лет	2.0
 employment	Полная занятость	2.0
 schedule	Полный день	2.0
-skills	Java EE	2.0
-skills	Spring Framework	2.0
-skills	SQL	1.0
-skills	Hibernate ORM	1.0
-skills	Code Review	1.0
 skills	Java SE	2.0
-skills	REST	1.0
-skills	SOAP	1.0
+skills	Spring Framework	2.0
 skills	JDBC	1.0
-skills	JUnit	1.0
+skills	JUnit	2.0
+skills	Java EE	2.0
+skills	Java	1.0
+skills	JSP	1.0
+skills	Java Servlets	1.0
+skills	Hibernate ORM	1.0
+skills	Apache Tomcat	1.0
+skills	Apache Maven	1.0
+skills	SQL	1.0
+skills	Intellij IDEA	1.0
+skills	NetBeans	1.0
+skills	Git	1.0
+skills	SVN	1.0

@@ -1,14 +1,16 @@
-salaries	116667 - 165000	1.0
-days	avg	4.0
-days	max	4.0
-days	min	4.0
+salaries	190723 - 233778	1.0
+days	avg	13.0
+days	max	13.0
+days	min	13.0
 experience	От 3 до 6 лет	1.0
 employment	Полная занятость	1.0
 schedule	Полный день	1.0
+skills	Atlassian Jira	1.0
+skills	Git	1.0
+skills	MongoDB	1.0
 skills	Java	1.0
+skills	Agile Project Management	1.0
 skills	Kotlin	1.0
-skills	C#	1.0
-skills	C++	1.0
-skills	TDD	1.0
-skills	Cassandra	1.0
-skills	Elasticsearch	1.0
+skills	WebSocket	1.0
+skills	Spring	1.0
+skills	Scrum	1.0

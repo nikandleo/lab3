@@ -1,25 +1,13 @@
-salaries	20000 - 68334	1.0
-salaries	NAN - NAN	4.0
-days	avg	10.4
-days	max	30.0
-days	min	3.0
-experience	Нет опыта	3.0
-experience	От 1 года до 3 лет	2.0
-employment	Полная занятость	5.0
-schedule	Гибкий график	3.0
-schedule	Полный день	2.0
-skills	iOS	4.0
-skills	swift	1.0
-skills	Objective-C	4.0
-skills	ООП	1.0
-skills	SOLID	1.0
-skills	iOS SDK	1.0
-skills	HTTP	1.0
-skills	REST	1.0
-skills	JSON	1.0
-skills	JWT	1.0
-skills	WebSockets	1.0
-skills	Git	2.0
-skills	Swift	3.0
-skills	Разработка ПО	1.0
-skills	Английский язык	1.0
+salaries	61556 - 104612	1.0
+salaries	NAN - NAN	1.0
+days	avg	15.0
+days	max	19.0
+days	min	11.0
+experience	От 1 года до 3 лет	1.0
+experience	Нет опыта	1.0
+employment	Полная занятость	2.0
+schedule	Гибкий график	2.0
+skills	iOS	1.0
+skills	Git	1.0
+skills	Objective-C	1.0
+skills	Mac Os	1.0

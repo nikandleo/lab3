@@ -1,12 +1,7 @@
 salaries	NAN - NAN	1.0
-days	avg	8.0
-days	max	8.0
-days	min	8.0
-experience	От 3 до 6 лет	1.0
+days	avg	0.0
+days	max	0.0
+days	min	0.0
+experience	От 1 года до 3 лет	1.0
 employment	Полная занятость	1.0
 schedule	Полный день	1.0
-skills	Oracle Pl/SQL	1.0
-skills	Linux	1.0
-skills	PHP	1.0
-skills	SQL	1.0
-skills	MS SQL	1.0

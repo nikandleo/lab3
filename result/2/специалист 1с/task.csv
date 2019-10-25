@@ -1,10 +1,24 @@
-salaries	NAN - NAN	1.0
-days	avg	4.0
-days	max	4.0
-days	min	4.0
+salaries	61556 - 104612	1.0
+salaries	NAN - NAN	2.0
+days	avg	19.0
+days	max	27.0
+days	min	11.0
+experience	От 1 года до 3 лет	2.0
 experience	От 3 до 6 лет	1.0
-employment	Полная занятость	1.0
-schedule	Гибкий график	1.0
+employment	Полная занятость	2.0
+employment	Частичная занятость	1.0
+schedule	Полный день	2.0
+schedule	Удаленная работа	1.0
+skills	1С: Розница	1.0
+skills	Консультирование	1.0
+skills	Разработка технических заданий	1.0
+skills	1С программирование	2.0
+skills	Работа в команде	1.0
+skills	1С: Комплексная автоматизация	1.0
 skills	1С: Предприятие 8	1.0
 skills	1С: Зарплата и управление персоналом	1.0
-skills	Консультирование	1.0
+skills	1С: Зарплата и кадры	1.0
+skills	Ведение переговоров	1.0
+skills	Обновление конфигурации 1С	1.0
+skills	MS SQL	1.0
+skills	1С: Управление Производственным Предприятием	1.0

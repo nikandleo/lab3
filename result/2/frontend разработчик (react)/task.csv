@@ -1,21 +1,19 @@
-salaries	NAN - NAN	3.0
-days	avg	8.333333333333334
-days	max	9.0
-days	min	7.0
-experience	От 3 до 6 лет	2.0
+salaries	61556 - 104612	1.0
+salaries	NAN - NAN	1.0
+days	avg	11.0
+days	max	12.0
+days	min	10.0
 experience	От 1 года до 3 лет	1.0
-employment	Полная занятость	3.0
-schedule	Гибкий график	1.0
+experience	От 3 до 6 лет	1.0
+employment	Полная занятость	2.0
 schedule	Удаленная работа	1.0
 schedule	Полный день	1.0
-skills	Node.js	2.0
+skills	JavaScript	2.0
+skills	HTML5	1.0
+skills	CSS3	1.0
+skills	React	2.0
 skills	Git	2.0
+skills	Node.js	1.0
 skills	Linux	1.0
 skills	CSS	1.0
 skills	HTML	1.0
-skills	React	1.0
-skills	JavaScript	3.0
-skills	CSS3	1.0
-skills	HTML5	1.0
-skills	react	1.0
-skills	frontend	1.0

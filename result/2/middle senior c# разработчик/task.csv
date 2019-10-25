@@ -1,7 +1,16 @@
-salaries	116667 - 165000	1.0
-days	avg	3.0
-days	max	3.0
-days	min	3.0
+salaries	NAN - NAN	1.0
+days	avg	21.0
+days	max	21.0
+days	min	21.0
 experience	От 3 до 6 лет	1.0
 employment	Полная занятость	1.0
 schedule	Полный день	1.0
+skills	С#	1.0
+skills	asp.net mvc	1.0
+skills	.NET	1.0
+skills	React	1.0
+skills	Elasticsearch	1.0
+skills	RabbitMQ	1.0
+skills	Selenium	1.0
+skills	MS SQL	1.0
+skills	JavaScript	1.0

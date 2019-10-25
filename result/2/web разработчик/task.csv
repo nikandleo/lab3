@@ -1,33 +1,38 @@
-salaries	NAN - NAN	4.0
-days	avg	16.0
-days	max	30.0
-days	min	5.0
-experience	От 1 года до 3 лет	2.0
-experience	От 3 до 6 лет	1.0
-experience	Нет опыта	1.0
-employment	Полная занятость	3.0
-employment	Частичная занятость	1.0
-schedule	Полный день	3.0
-schedule	Гибкий график	1.0
-skills	MS SQL	2.0
-skills	Linux	1.0
-skills	JavaScript	3.0
-skills	MySQL	2.0
-skills	PHP5	2.0
-skills	Yii	1.0
-skills	PHP	1.0
-skills	Node.js	2.0
-skills	php7	1.0
-skills	ClickHouse	1.0
-skills	yii2	1.0
-skills	Vue.js	1.0
-skills	npm	1.0
-skills	yarn	1.0
-skills	webpack	1.0
-skills	ASP.NET	1.0
-skills	ASP.NET CORE	1.0
-skills	HTML	2.0
-skills	XML	1.0
+salaries	18500 - 61556	3.0
+salaries	61556 - 104612	5.0
+salaries	NAN - NAN	3.0
+days	avg	10.545454545454545
+days	max	28.0
+days	min	0.0
+experience	От 1 года до 3 лет	9.0
+experience	От 3 до 6 лет	2.0
+employment	Полная занятость	11.0
+schedule	Полный день	10.0
+schedule	Удаленная работа	1.0
+skills	внутренний аудит сайта	1.0
+skills	Работа с доменами	1.0
+skills	Наполнение контентом	1.0
+skills	HTML	3.0
+skills	MySQL	3.0
+skills	CSS	3.0
+skills	PHP	5.0
+skills	Git	3.0
+skills	Ajax	2.0
+skills	JavaScript	5.0
+skills	Figma	1.0
+skills	1С-Битрикс	4.0
+skills	HTML5	2.0
+skills	Bootstrap	1.0
+skills	CMS Wordpress	1.0
 skills	SQL	1.0
-skills	CSS	1.0
-skills	Git	1.0
+skills	Битрикс24	1.0
+skills	Bitrix24	1.0
+skills	CRM	1.0
+skills	REST API	1.0
+skills	CMS	1.0
+skills	Joomla	1.0
+skills	Drupal	1.0
+skills	API	1.0
+skills	ModX	1.0
+skills	Adobe Photoshop	1.0
+skills	PHP5	1.0

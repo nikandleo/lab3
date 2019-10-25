@@ -1,42 +1,35 @@
-salaries	68334 - 116667	1.0
-salaries	116667 - 165000	3.0
-salaries	NAN - NAN	14.0
-days	avg	11.222222222222221
-days	max	30.0
-days	min	3.0
-experience	От 1 года до 3 лет	17.0
-experience	От 3 до 6 лет	1.0
-employment	Полная занятость	18.0
-schedule	Полный день	12.0
-schedule	Гибкий график	5.0
-schedule	Удаленная работа	1.0
-skills	Objective-C	10.0
-skills	iOS	11.0
-skills	C++	1.0
-skills	Xcode	3.0
-skills	UI	1.0
-skills	MVC	2.0
-skills	Git	4.0
-skills	ООП	4.0
-skills	Swift	7.0
-skills	iOS SDK	3.0
-skills	iOS Human Interface Guidelines	1.0
-skills	Design Patterns	1.0
-skills	Android	1.0
-skills	SWIFT Alliance	1.0
-skills	Foundation	1.0
+salaries	61556 - 104612	1.0
+salaries	104612 - 147667	2.0
+salaries	NAN - NAN	8.0
+days	avg	15.727272727272727
+days	max	25.0
+days	min	0.0
+experience	От 1 года до 3 лет	8.0
+experience	От 3 до 6 лет	2.0
+experience	Нет опыта	1.0
+employment	Полная занятость	11.0
+schedule	Полный день	5.0
+schedule	Гибкий график	4.0
+schedule	Удаленная работа	2.0
+skills	Swift	5.0
+skills	Objective-C	9.0
+skills	iOS	10.0
+skills	Cocoa Touch	1.0
 skills	UIKit	1.0
-skills	Core Animation	1.0
-skills	GCD(QOS)	1.0
-skills	Alamofire	1.0
-skills	RxSwift	1.0
-skills	Interface Builder	1.0
-skills	CocoaPods	1.0
-skills	Fastlane	1.0
-skills	CI	1.0
-skills	Zeplin	1.0
+skills	Xcode	2.0
+skills	Agile Project Management	1.0
+skills	Git	3.0
+skills	Английский язык	1.0
+skills	ООП	3.0
+skills	SQL	1.0
+skills	MS SQL	2.0
+skills	SWIFT Alliance	4.0
+skills	API	1.0
+skills	PostgreSQL	1.0
+skills	MVC	1.0
 skills	Scrum	1.0
+skills	Android	1.0
+skills	iOS SDK	2.0
 skills	SOLID	1.0
-skills	Mac Os	1.0
-skills	Atlassian Jira	1.0
-skills	Redmine	1.0
+skills	C/C++	1.0
+skills	Storyboard	1.0

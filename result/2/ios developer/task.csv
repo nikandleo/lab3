@@ -1,20 +1,13 @@
-salaries	68334 - 116667	1.0
-salaries	NAN - NAN	4.0
-days	avg	6.4
-days	max	10.0
-days	min	4.0
-experience	От 1 года до 3 лет	4.0
-experience	От 3 до 6 лет	1.0
-employment	Полная занятость	4.0
-employment	Частичная занятость	1.0
-schedule	Гибкий график	2.0
+salaries	NAN - NAN	3.0
+days	avg	10.333333333333334
+days	max	13.0
+days	min	5.0
+experience	От 1 года до 3 лет	3.0
+employment	Полная занятость	3.0
 schedule	Полный день	2.0
-schedule	Удаленная работа	1.0
-skills	iOS	4.0
+schedule	Гибкий график	1.0
+skills	iOS	3.0
+skills	Objective-C	3.0
+skills	Swift	1.0
 skills	Git	2.0
-skills	Objective-C	4.0
-skills	Разработка ПО	2.0
-skills	Swift	2.0
-skills	Atlassian Jira	1.0
-skills	ООП	1.0
-skills	swift	1.0
+skills	Mac Os	1.0

@@ -1,22 +1,12 @@
-salaries	116667 - 165000	1.0
-salaries	165000 - 213334	1.0
-salaries	261667 - 310000	1.0
-salaries	NAN - NAN	2.0
-days	avg	17.4
-days	max	23.0
-days	min	4.0
-experience	От 3 до 6 лет	3.0
-experience	От 1 года до 3 лет	2.0
-employment	Полная занятость	5.0
-schedule	Полный день	4.0
+salaries	NAN - NAN	1.0
+days	avg	26.0
+days	max	26.0
+days	min	26.0
+experience	От 1 года до 3 лет	1.0
+employment	Полная занятость	1.0
 schedule	Удаленная работа	1.0
-skills	ООП	3.0
-skills	kotlin	2.0
-skills	Java	4.0
-skills	Android SDK	2.0
-skills	Design Patterns	2.0
-skills	Android	2.0
+skills	Android SDK	1.0
+skills	Android	1.0
+skills	Java	1.0
 skills	REST	1.0
 skills	C++	1.0
-skills	Kotlin	1.0
-skills	Разработка ПО	1.0

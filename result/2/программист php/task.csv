@@ -1,9 +1,19 @@
-salaries	20000 - 68334	1.0
-salaries	NAN - NAN	1.0
-days	avg	13.0
-days	max	23.0
-days	min	3.0
-experience	Нет опыта	1.0
+salaries	18500 - 61556	1.0
+salaries	NAN - NAN	2.0
+days	avg	19.0
+days	max	26.0
+days	min	5.0
+experience	От 1 года до 3 лет	2.0
 experience	От 3 до 6 лет	1.0
-employment	Полная занятость	2.0
-schedule	Полный день	2.0
+employment	Полная занятость	3.0
+schedule	Полный день	3.0
+skills	JavaScript	1.0
+skills	1С-Битрикс	1.0
+skills	MySQL	3.0
+skills	CSS	2.0
+skills	PHP	2.0
+skills	SEO	1.0
+skills	PHP5	2.0
+skills	HTML5	1.0
+skills	SQL	1.0
+skills	MS SQL	1.0

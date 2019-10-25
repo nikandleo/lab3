@@ -1,63 +1,90 @@
-salaries	20000 - 68334	1.0
-salaries	68334 - 116667	26.0
-salaries	116667 - 165000	1.0
-days	avg	10.0
-days	max	31.0
-days	min	3.0
-experience	От 1 года до 3 лет	16.0
-experience	От 3 до 6 лет	8.0
-experience	Нет опыта	3.0
-experience	Более 6 лет	1.0
-employment	Полная занятость	28.0
-schedule	Полный день	25.0
-schedule	Гибкий график	3.0
-skills	Работа с базами данных	1.0
-skills	Работа с большим объемом информации	2.0
-skills	Без ключевых навыков	16.0
+salaries	18500 - 61556	12.0
+salaries	61556 - 104612	26.0
+days	avg	9.026315789473685
+days	max	27.0
+days	min	0.0
+experience	От 1 года до 3 лет	28.0
+experience	От 3 до 6 лет	5.0
+experience	Нет опыта	5.0
+employment	Полная занятость	37.0
+employment	Стажировка	1.0
+schedule	Полный день	34.0
+schedule	Гибкий график	4.0
+skills	аналитические способности	1.0
+skills	Исполнительность	1.0
+skills	Грамотность	1.0
+skills	внимательность	1.0
+skills	Без ключевых навыков	17.0
 skills	Деловое общение	1.0
-skills	Бизнес-анализ	3.0
-skills	Работа в команде	1.0
+skills	Бизнес-анализ	8.0
+skills	Работа в команде	2.0
 skills	Аналитический склад ума	1.0
-skills	Разработка технических заданий	3.0
-skills	UML	5.0
-skills	SQL	2.0
-skills	Системный анализ	5.0
-skills	Сбор требований	1.0
-skills	Техническое задание	1.0
+skills	Разработка технических заданий	5.0
+skills	Проектная документация	1.0
+skills	Аналитика	1.0
+skills	Техническая документация	1.0
+skills	Сбор и анализ информации	1.0
+skills	Customer Needs Analysis	1.0
+skills	Разработка инструкций	1.0
+skills	MS Visio	1.0
+skills	Информационные технологии	2.0
+skills	Ведение переговоров	1.0
+skills	Организация стажировок	1.0
+skills	Анализ данных	3.0
+skills	Системный анализ	4.0
+skills	Консультирование	1.0
+skills	Helpdesk	1.0
+skills	Пользователь ПК	1.0
+skills	MS Outlook	1.0
+skills	SQL	3.0
 skills	Банковское ПО	1.0
-skills	АБС	1.0
-skills	ЦФТ	1.0
-skills	3CardR	1.0
-skills	ФНС, ФССП, ГИС ГМП, ГИС ЖКХ, ЕФРСБ, ЦИК, Биометрия	1.0
-skills	Oracle Pl/SQL	2.0
-skills	Python	1.0
-skills	Java	1.0
-skills	Atlassian Jira	1.0
-skills	Базы данных	1.0
-skills	СУБД	1.0
-skills	Анализ данных	1.0
-skills	IBSO	1.0
+skills	Языки программирования	1.0
+skills	UML	3.0
 skills	REST	1.0
 skills	JSON API	1.0
+skills	Управление проектами	1.0
+skills	Оптимизация бизнес-процессов	1.0
+skills	Постановка задач разработчикам	1.0
+skills	Разработка регламентов	1.0
+skills	СМК	1.0
 skills	Поиск информации в интернет	1.0
 skills	написание документации	1.0
-skills	Информационные технологии	1.0
-skills	СМК	1.0
-skills	Analytical skills	1.0
-skills	Presentation skills	1.0
-skills	Customer Needs Analysis	1.0
+skills	Работа с большим объемом информации	2.0
+skills	Аналитические исследования	2.0
+skills	Факторный анализ	2.0
+skills	Математический анализ	2.0
+skills	Статистический анализ	1.0
+skills	MS Excel	1.0
+skills	MS SQL	1.0
+skills	СУБД	1.0
+skills	Моделирование бизнес процессов	3.0
+skills	ORACLE	1.0
+skills	MS Access	1.0
+skills	Python	1.0
+skills	Базы данных	1.0
+skills	Математическая статистика	1.0
+skills	Power BI	1.0
+skills	Power Pivot	1.0
+skills	Statistica	1.0
+skills	Внутренняя документация	1.0
+skills	Автоматизация документооборота	1.0
+skills	Документальное сопровождение	1.0
 skills	BPMN	2.0
-skills	Use Case Analysis	1.0
-skills	Interpersonal skills	1.0
-skills	Моделирование бизнес процессов	1.0
-skills	Requirements Analysis	1.0
-skills	Requirements Specification	1.0
-skills	Requirements Management	1.0
-skills	User Acceptance Testing	1.0
-skills	MS Visio	1.0
-skills	Axure	1.0
-skills	Confluence	1.0
-skills	SRS	1.0
-skills	Vision	1.0
-skills	eCommerce	1.0
-skills	IT Finance	1.0
+skills	IDEF0	2.0
+skills	Опыт документирования	2.0
+skills	Scrum	3.0
+skills	MySQL	1.0
+skills	Проведение тестирований	1.0
+skills	Проектирование пользовательских интерфейсов	1.0
+skills	Agile Project Management	2.0
+skills	Обучение персонала	1.0
+skills	Redmine	1.0
+skills	Тестирование	1.0
+skills	Java	1.0
+skills	Анализ бизнес показателей	2.0
+skills	Atlassian Jira	1.0
+skills	Git	1.0
+skills	Системная интеграция	1.0
+skills	data science	1.0
+skills	IDEF	1.0
+skills	MS Office	1.0

@@ -1,8 +1,12 @@
-salaries	NAN - NAN	1.0
-days	avg	3.0
-days	max	3.0
-days	min	3.0
-experience	От 3 до 6 лет	1.0
+salaries	147667 - 190723	1.0
+days	avg	13.0
+days	max	13.0
+days	min	13.0
+experience	От 1 года до 3 лет	1.0
 employment	Полная занятость	1.0
 schedule	Полный день	1.0
+skills	JUnit	1.0
+skills	Spring Framework	1.0
+skills	Hibernate ORM	1.0
+skills	Apache Maven	1.0
 skills	Java	1.0

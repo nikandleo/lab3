@@ -1,7 +1,32 @@
-salaries	NAN - NAN	1.0
-days	avg	4.0
-days	max	4.0
-days	min	4.0
-experience	От 1 года до 3 лет	1.0
-employment	Полная занятость	1.0
-schedule	Полный день	1.0
+salaries	NAN - NAN	5.0
+days	avg	12.8
+days	max	21.0
+days	min	2.0
+experience	От 1 года до 3 лет	2.0
+experience	Нет опыта	2.0
+experience	От 3 до 6 лет	1.0
+employment	Полная занятость	5.0
+schedule	Полный день	5.0
+skills	JavaScript	1.0
+skills	MySQL	3.0
+skills	jQuery	1.0
+skills	CSS	1.0
+skills	Bootstrap	1.0
+skills	Python	2.0
+skills	SQL	3.0
+skills	Ориентация на результат	2.0
+skills	Базы данных	2.0
+skills	C++	2.0
+skills	Cистемы управления базами данных	1.0
+skills	PostgreSQL	1.0
+skills	СУБД	1.0
+skills	Многозадачность	1.0
+skills	MS SQL	1.0
+skills	ORACLE	1.0
+skills	C#	1.0
+skills	Android	1.0
+skills	iOS	1.0
+skills	Java	1.0
+skills	Windows 7	1.0
+skills	Android SDK	1.0
+skills	HTML	1.0

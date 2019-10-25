@@ -1,11 +1,11 @@
 salaries	NAN - NAN	1.0
-days	avg	24.0
-days	max	24.0
-days	min	24.0
+days	avg	0.0
+days	max	0.0
+days	min	0.0
 experience	От 1 года до 3 лет	1.0
 employment	Полная занятость	1.0
 schedule	Гибкий график	1.0
-skills	Frontend	1.0
+skills	Git	1.0
 skills	JavaScript	1.0
-skills	WebPack	1.0
-skills	Vue.js	1.0
+skills	React	1.0
+skills	UX	1.0

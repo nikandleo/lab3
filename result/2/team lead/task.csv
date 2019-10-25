@@ -1,10 +1,11 @@
-salaries	NAN - NAN	1.0
-days	avg	11.0
-days	max	11.0
-days	min	11.0
-experience	От 1 года до 3 лет	1.0
-employment	Полная занятость	1.0
-schedule	Полный день	1.0
+salaries	NAN - NAN	2.0
+days	avg	17.0
+days	max	20.0
+days	min	14.0
+experience	От 1 года до 3 лет	2.0
+employment	Полная занятость	2.0
+schedule	Полный день	2.0
 skills	Лидерские качества	1.0
 skills	Работа в команде	1.0
 skills	Ответственность	1.0
+skills	Ruby On Rails	1.0

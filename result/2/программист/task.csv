@@ -1,23 +1,25 @@
-salaries	NAN - NAN	4.0
-days	avg	11.5
-days	max	29.0
-days	min	3.0
-experience	От 1 года до 3 лет	3.0
-experience	От 3 до 6 лет	1.0
-employment	Полная занятость	4.0
-schedule	Полный день	2.0
+salaries	18500 - 61556	1.0
+salaries	NAN - NAN	5.0
+days	avg	6.5
+days	max	24.0
+days	min	0.0
+experience	От 1 года до 3 лет	5.0
+experience	Нет опыта	1.0
+employment	Полная занятость	6.0
+schedule	Полный день	5.0
 schedule	Гибкий график	1.0
-schedule	Удаленная работа	1.0
-skills	MySQL	1.0
-skills	PostgreSQL	1.0
-skills	ООП	1.0
-skills	Cистемы управления базами данных	1.0
-skills	AngularJS	1.0
-skills	Git	1.0
+skills	1С: Комплексная автоматизация	1.0
+skills	1С: Торговля	1.0
+skills	Настройка сетевых подключений	1.0
+skills	Торговля	1.0
+skills	1С: Розница	1.0
+skills	1С программирование	1.0
+skills	JavaScript	1.0
+skills	jQuery	1.0
+skills	CSS	1.0
+skills	HTML	1.0
+skills	HTML5	1.0
+skills	ASP.NET	1.0
+skills	Umbraco	1.0
+skills	XML	1.0
 skills	C#	1.0
-skills	MS SQL	1.0
-skills	REST	1.0
-skills	.NET Framework	1.0
-skills	Delphi	1.0
-skills	СУБД Oracle	1.0
-skills	SQL-запрос	1.0

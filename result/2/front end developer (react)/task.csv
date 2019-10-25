@@ -1,7 +1,14 @@
 salaries	NAN - NAN	1.0
-days	avg	3.0
-days	max	3.0
-days	min	3.0
+days	avg	18.0
+days	max	18.0
+days	min	18.0
 experience	От 1 года до 3 лет	1.0
 employment	Полная занятость	1.0
 schedule	Полный день	1.0
+skills	JavaScript	1.0
+skills	ES6/ES7	1.0
+skills	TypeScript	1.0
+skills	Node.js	1.0
+skills	Angular	1.0
+skills	Redux	1.0
+skills	React	1.0

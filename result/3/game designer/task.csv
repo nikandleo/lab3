@@ -1,35 +1,15 @@
-salaries	20000 - 68334	2.0
-salaries	68334 - 116667	3.0
-salaries	116667 - 165000	3.0
-salaries	165000 - 213334	2.0
-salaries	213334 - 261667	2.0
-salaries	310000 - 358334	1.0
-days	avg	14.615384615384615
-days	max	32.0
-days	min	3.0
-experience	От 3 до 6 лет	6.0
-experience	Более 6 лет	3.0
+salaries	61556 - 104612	1.0
+salaries	147667 - 190723	6.0
+days	avg	10.0
+days	max	18.0
+days	min	1.0
+experience	От 3 до 6 лет	4.0
 experience	От 1 года до 3 лет	3.0
-experience	Нет опыта	1.0
-employment	Полная занятость	13.0
-schedule	Полный день	7.0
+employment	Полная занятость	7.0
 schedule	Удаленная работа	3.0
-schedule	Гибкий график	3.0
-skills	GameDev	2.0
-skills	Unity	5.0
-skills	3D	2.0
-skills	C#	4.0
-skills	Разработка компьютерных Игр	1.0
-skills	Game Programming	2.0
-skills	Разработка ПО	1.0
-skills	Git	1.0
-skills	Android	4.0
-skills	iOS	4.0
-skills	ООП	1.0
-skills	Unity3d	1.0
+schedule	Полный день	3.0
+schedule	Гибкий график	1.0
 skills	Без ключевых навыков	4.0
-skills	Adobe Photoshop	1.0
-skills	CorelDRAW	1.0
-skills	Разработка концепции	1.0
-skills	Мобильность	1.0
-skills	Пользователь ПК	1.0
+skills	Unity	3.0
+skills	iOS	3.0
+skills	Android	3.0

@@ -1,10 +1,13 @@
 salaries	NAN - NAN	1.0
-days	avg	14.0
-days	max	14.0
-days	min	14.0
-experience	От 3 до 6 лет	1.0
+days	avg	13.0
+days	max	13.0
+days	min	13.0
+experience	От 1 года до 3 лет	1.0
 employment	Полная занятость	1.0
-schedule	Полный день	1.0
-skills	C#	1.0
-skills	WPF	1.0
-skills	Разработка интерфейсов	1.0
+schedule	Гибкий график	1.0
+skills	С #	1.0
+skills	.NET Core	1.0
+skills	EF Core	1.0
+skills	PostgreSQL	1.0
+skills	ASP.NET Core	1.0
+skills	RabbitMQ	1.0

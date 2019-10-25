@@ -5,6 +5,27 @@ import math
 from datetime import datetime
 
 
+def shrinkAndSortList(lst):
+    tup_list = []
+    ind, index = 0, 0
+    while index < len(lst):
+        element_count = 0
+        while ind < len(lst) and lst[ind] == lst[index]:
+            element_count += 1
+            ind += 1
+        tup_list.append((lst[index], element_count))
+        index += element_count
+
+    lst = len(tup_list)
+    for j in range(0, lst):
+        for z in range(0, lst - j - 1):
+            if tup_list[z][1] < tup_list[z + 1][1]:
+                temp = tup_list[z]
+                tup_list[z] = tup_list[z + 1]
+                tup_list[z + 1] = temp
+    return tup_list
+
+
 def count_days(data):
     a = pd.to_datetime(data.published_at).apply(lambda x: x.strftime("%Y-%m-%d %H:%M:%S"))
     days = [date.days for date in datetime.now() - pd.to_datetime(a)]
@@ -57,6 +78,22 @@ def split_data(dtf, left_border='', right_border=''):
     return {'data': dtf, 'from_value': min_sal, 'to_value': max_sal}
 
 
+def dummy_skills(dtf, item, path_to_result):
+    left_border = item['from_value']
+    right_border = item['to_value']
+    path = os.path.join(path_to_result, (str(left_border) + " " + str(right_border)).strip())
+    os.mkdir(path)
+    arr_skills = dtf['key_skills'].str.cat(sep='|').split('|')
+    top10skills = shrinkAndSortList(arr_skills)[:10]
+    topskills = [x[0] for x in top10skills]
+    dtf['new_skills'] = dtf.key_skills.apply(lambda x: x.split("|"))
+    for skill in topskills:
+        dtf[skill] = dtf.new_skills.apply(lambda x: int(skill in x))
+    dtf.drop(['new_skills'], axis=1, inplace=True)
+    dtf['Другое'] = dtf.apply(lambda row: int(sum(list(row.loc[topskills])) == 0), axis=1)
+    dtf.to_csv(os.path.join(path, "vacancies.csv"))
+
+
 def task1(dfs, path_to_result):
     for item in dfs:
         data = item['data']
@@ -82,10 +119,11 @@ def task2(origin_data, salary_separated, path_to_result):
                 if cnt != 0:
                     border_salary[key] = cnt
             record['salaries'] = pd.Series(border_salary)
-            calculate(record, data, item, path_to_result)
+            dummy_skills(data, item, path_to_result)
+            # calculate(record, data, item, path_to_result)
 
 
-df = pd.read_csv('vacancies_new.csv')  # vacancies.csv for result/2
+df = pd.read_csv('vacancies_new2.csv')  # vacancies.csv for result/2
 df.name = df.name.apply(lambda x: re.sub(r'[\s/|\\"*:\-]+', ' ', x.lower().strip()))
 df = df.sort_values(by=['max_salary'])
 df = df.sort_values(by=['min_salary'])
@@ -106,4 +144,5 @@ df_list.append(undefined_group)
 
 # task1(df_list, 'result/1')
 # task2(df, df_list, 'result/2')
-task2(df, df_list, 'result/3')
+# task2(df, df_list, 'result/3')
+task2(df, df_list, 'result/4')

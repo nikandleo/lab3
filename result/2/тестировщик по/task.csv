@@ -1,16 +1,20 @@
-salaries	20000 - 68334	1.0
-salaries	NAN - NAN	1.0
-days	avg	15.5
-days	max	22.0
-days	min	9.0
+salaries	61556 - 104612	1.0
+salaries	NAN - NAN	2.0
+days	avg	8.333333333333334
+days	max	24.0
+days	min	0.0
 experience	От 1 года до 3 лет	2.0
-employment	Полная занятость	2.0
-schedule	Полный день	2.0
-skills	Ответственность	1.0
-skills	Внимательность	1.0
-skills	Обучаемость	1.0
-skills	Redmine	1.0
-skills	Функциональное тестирование	1.0
-skills	Стрессоустойчивость	1.0
-skills	Грамотная речь	1.0
+experience	Нет опыта	1.0
+employment	Полная занятость	3.0
+schedule	Полный день	3.0
+skills	Git	1.0
+skills	Qt	1.0
+skills	C++	1.0
+skills	Python	1.0
+skills	LabVIEW	1.0
+skills	Тестирование	2.0
+skills	QA	1.0
+skills	Проведение тестирований	1.0
 skills	Работа в команде	1.0
+skills	Тестирование пользовательского интерфейса	1.0
+skills	Пользователь ПК	1.0

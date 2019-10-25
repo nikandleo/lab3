@@ -1,14 +1,11 @@
 salaries	NAN - NAN	1.0
-days	avg	10.0
-days	max	10.0
-days	min	10.0
+days	avg	7.0
+days	max	7.0
+days	min	7.0
 experience	Нет опыта	1.0
-employment	Стажировка	1.0
-schedule	Гибкий график	1.0
-skills	Математическое программирование	1.0
-skills	Веб-программирование	1.0
-skills	Разработка ПО	1.0
-skills	JavaScript	1.0
-skills	C#	1.0
-skills	Python	1.0
-skills	C/C++	1.0
+employment	Полная занятость	1.0
+schedule	Полный день	1.0
+skills	SQL	1.0
+skills	Английский язык	1.0
+skills	ORACLE	1.0
+skills	Oracle Pl/SQL	1.0

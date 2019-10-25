@@ -1,20 +1,7 @@
 salaries	NAN - NAN	1.0
-days	avg	4.0
-days	max	4.0
-days	min	4.0
-experience	От 3 до 6 лет	1.0
+days	avg	28.0
+days	max	28.0
+days	min	28.0
+experience	От 1 года до 3 лет	1.0
 employment	Полная занятость	1.0
 schedule	Полный день	1.0
-skills	ASP.NET	1.0
-skills	MVC	1.0
-skills	C#	1.0
-skills	MS SQL	1.0
-skills	SOLID	1.0
-skills	Microsoft Azure Service Fabric	1.0
-skills	.NET Core	1.0
-skills	RabbitMQ	1.0
-skills	.NET Framework 4.6+	1.0
-skills	Entity Framework	1.0
-skills	ELK	1.0
-skills	SOA	1.0
-skills	TeamCity	1.0

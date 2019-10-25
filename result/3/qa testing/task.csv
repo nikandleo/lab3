@@ -1,54 +1,47 @@
-salaries	20000 - 68334	4.0
-salaries	68334 - 116667	38.0
-salaries	116667 - 165000	2.0
-days	avg	10.022727272727273
-days	max	25.0
-days	min	3.0
-experience	От 1 года до 3 лет	33.0
-experience	От 3 до 6 лет	10.0
-experience	Нет опыта	1.0
-employment	Полная занятость	44.0
-schedule	Полный день	29.0
-schedule	Гибкий график	15.0
-skills	Без ключевых навыков	19.0
-skills	Тестирование	9.0
-skills	Автоматизация тестирования	1.0
-skills	C#	6.0
-skills	Test case	2.0
-skills	Compatibility Testing	1.0
-skills	Регресcионное тестирование	1.0
-skills	Функциональное тестирование	6.0
-skills	Тестирование пользовательского интерфейса	3.0
-skills	Проведение тестирований	1.0
-skills	QA	4.0
-skills	Linux	4.0
-skills	Atlassian Jira	2.0
+salaries	18500 - 61556	10.0
+salaries	61556 - 104612	19.0
+salaries	147667 - 190723	12.0
+days	avg	9.585365853658537
+days	max	28.0
+days	min	0.0
+experience	От 1 года до 3 лет	34.0
+experience	От 3 до 6 лет	4.0
+experience	Нет опыта	3.0
+employment	Полная занятость	41.0
+schedule	Полный день	34.0
+schedule	Удаленная работа	4.0
+schedule	Гибкий график	3.0
+skills	Нагрузочное тестирование	3.0
+skills	Проведение тестирований	6.0
+skills	Тестирование	17.0
+skills	Python	7.0
+skills	Flask	1.0
+skills	AngularJS	1.0
+skills	RabbitMQ	1.0
+skills	Jenkins	1.0
+skills	API	2.0
+skills	HTML	2.0
+skills	CSS	2.0
+skills	PHP	1.0
+skills	Функциональное тестирование	8.0
+skills	Регресионное тестирование	2.0
+skills	Тестирование пользовательского интерфейса	7.0
+skills	JavaScript	3.0
+skills	Без ключевых навыков	15.0
 skills	Git	5.0
-skills	MySQL	3.0
-skills	PHP	2.0
-skills	Selenium IDE	3.0
-skills	ASP.NET	2.0
-skills	Team city	1.0
-skills	unit-тесты	2.0
-skills	авто-тесты	2.0
-skills	Continuous Integration	2.0
+skills	Linux	5.0
+skills	Django Framework	1.0
+skills	Node.js	1.0
+skills	jQuery	2.0
+skills	Ajax	1.0
+skills	CSS3	2.0
+skills	SQL	5.0
 skills	Модульное тестирование	1.0
-skills	С#	1.0
-skills	.NET Framework	2.0
-skills	внимательность	1.0
-skills	Работа в команде	2.0
-skills	нацеленность на результат	1.0
-skills	Коммуникабельность	1.0
-skills	аккуратность	1.0
-skills	Scrum	1.0
-skills	Мотивация	1.0
-skills	Аналитические способности	1.0
-skills	Cucumber	1.0
-skills	Smoke Testing	1.0
-skills	Integration Testing	1.0
-skills	Регресионное тестирование	1.0
+skills	Java	4.0
+skills	Android	1.0
+skills	QA	8.0
+skills	Atlassian Jira	2.0
 skills	Atlassian Confluence	1.0
-skills	mobile	1.0
 skills	Functional testing	1.0
 skills	Integration testing	1.0
 skills	Regression testing	1.0
@@ -58,43 +51,31 @@ skills	REST	1.0
 skills	JIRA	1.0
 skills	Test design	1.0
 skills	Test Plan	1.0
-skills	MongoDB	1.0
-skills	GitLab	1.0
-skills	CI	1.0
-skills	React	2.0
-skills	Typescript	2.0
-skills	Python	4.0
+skills	Test case	2.0
+skills	Qt	1.0
 skills	C++	1.0
-skills	PowerShell	2.0
-skills	Azure	1.0
-skills	English	1.0
-skills	Hyper-V	1.0
-skills	Ruby	1.0
-skills	SQL	1.0
-skills	LINQ	1.0
-skills	Нагрузочное тестирование	1.0
-skills	Java	2.0
-skills	TeamCity	1.0
-skills	Youtrack	1.0
-skills	JavaScript	2.0
-skills	machine learning	1.0
-skills	computer vision	1.0
-skills	data science	1.0
-skills	Artificial intelligence	1.0
-skills	Машинное обучение	1.0
-skills	компьютерное зрение	1.0
-skills	искусственный интеллект	1.0
-skills	Анализ данных	1.0
-skills	Ответственность	1.0
-skills	Внимательность	1.0
-skills	Обучаемость	1.0
-skills	Redmine	1.0
-skills	Стрессоустойчивость	1.0
-skills	Грамотная речь	1.0
-skills	C/C++	1.0
-skills	Networking	1.0
-skills	Bash	1.0
-skills	R	1.0
-skills	Go	1.0
-skills	Unix	1.0
+skills	LabVIEW	1.0
+skills	Black box testing	2.0
+skills	Ruby	3.0
+skills	1С: Бухгалтерия	1.0
+skills	1С программирование	1.0
+skills	Аналитическое мышление	1.0
+skills	Управление командой	1.0
+skills	Работа в команде	1.0
+skills	Пользователь ПК	1.0
+skills	Автоматизация	1.0
+skills	автоматизация тестирования	1.0
+skills	UI тестирование	1.0
+skills	Selenium IDE	2.0
+skills	тестирования Web-приложений	1.0
+skills	тестирования мобильных приложений	1.0
+skills	ручное тестирование	1.0
+skills	Регресcионное тестирование	2.0
+skills	MS SQL	2.0
+skills	HTML5	1.0
 skills	Unit Testing	1.0
+skills	Testing Framework	1.0
+skills	VoIP	1.0
+skills	Cisco	1.0
+skills	Networking	1.0
+skills	CCNP	1.0

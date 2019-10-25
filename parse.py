@@ -55,12 +55,14 @@ def clear_columns(element):
 x = []
 all_zp = 0
 all_n = 0
-for i in range(11):  # 11*100=1100 вакансий
-    url = 'https://api.hh.ru/vacancies'
-    par = {'specialization': '1.221', 'area': '4', 'per_page': '100', 'page': i}  # Новосибирская область
-    r = requests.get(url, params=par)
-    e = r.json()
-    x.append(e)
+city_ids = ['4', '53', '104', '3', '78']
+for j in range(5):
+    for i in range(5):  # 5*50=250 вакансий (по 5 городов)
+        url = 'https://api.hh.ru/vacancies'
+        par = {'specialization': '1.221', 'area': city_ids[j], 'per_page': '50', 'page': i}  # Новосибирская область
+        r = requests.get(url, params=par)
+        e = r.json()
+        x.append(e)
 vacancies = []
 needed = ['name', 'area', 'min_salary', 'max_salary', 'employer', 'published_at', 'experience', 'schedule',
           'employment', 'description', 'requirements', 'duties', 'conditions', 'key_skills']

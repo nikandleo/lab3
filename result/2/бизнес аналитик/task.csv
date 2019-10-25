@@ -1,20 +1,25 @@
-salaries	NAN - NAN	2.0
-days	avg	11.0
-days	max	18.0
-days	min	4.0
-experience	От 1 года до 3 лет	2.0
-employment	Полная занятость	2.0
-schedule	Полный день	2.0
+salaries	NAN - NAN	3.0
+days	avg	8.333333333333334
+days	max	21.0
+days	min	0.0
+experience	От 1 года до 3 лет	3.0
+employment	Полная занятость	3.0
+schedule	Полный день	3.0
 skills	Деловое общение	1.0
-skills	Бизнес-анализ	1.0
+skills	Бизнес-анализ	2.0
 skills	Работа в команде	1.0
 skills	Аналитический склад ума	1.0
+skills	Моделирование бизнес процессов	1.0
+skills	IDEF	1.0
+skills	IDEF0	1.0
+skills	MS Office	1.0
+skills	Разработка технических заданий	1.0
+skills	Проектная документация	1.0
+skills	Аналитика	1.0
+skills	Техническая документация	1.0
+skills	Сбор и анализ информации	1.0
+skills	Customer Needs Analysis	1.0
+skills	Разработка инструкций	1.0
 skills	MS Visio	1.0
-skills	Axure	1.0
-skills	Confluence	1.0
-skills	UML	1.0
-skills	BPMN	1.0
-skills	SRS	1.0
-skills	Vision	1.0
-skills	eCommerce	1.0
-skills	IT Finance	1.0
+skills	Информационные технологии	1.0
+skills	Ведение переговоров	1.0
