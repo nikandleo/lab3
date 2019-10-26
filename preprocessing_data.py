@@ -15,6 +15,7 @@ min_max = df['min_salary'].max()
 
 min_arr = []
 max_arr = []
+
 for i in range(10):
     min_arr.append(min_min + i * ((min_max - min_min) / 9))
     max_arr.append(max_min + i * ((max_max - max_min) / 9))
