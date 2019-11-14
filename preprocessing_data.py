@@ -2,8 +2,7 @@ import re
 import pandas as pd
 from datetime import datetime
 
-
-df = pd.read_csv('vacancies_new.csv')
+df = pd.read_csv('vacancies_one_new.csv')
 df.drop(df.columns[0], axis=1, inplace=True)
 min_days = df.days.min()
 max_days = df.days.max()
@@ -28,5 +27,7 @@ df = pd.concat([df, pd.get_dummies(df['area'])], axis=1)
 df = pd.concat([df, pd.get_dummies(df['experience'])], axis=1)
 df = pd.concat([df, pd.get_dummies(df['schedule'])], axis=1)
 df = pd.concat([df, pd.get_dummies(df['employment'])], axis=1)
-
-pd.DataFrame(df).to_csv('vacancies_new2.csv')
+df.drop(df[df.name == 'Разработчик'].index, inplace=True)
+df.drop(df[df.name == 'Аналитик'].index, inplace=True)
+df.drop(df[df.name == '1С'].index, inplace=True)
+pd.DataFrame(df).to_csv('vacancies_one_new2.csv')

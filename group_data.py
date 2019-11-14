@@ -12,7 +12,7 @@ new_names = ['.NET', 'Android', 'Frontend', 'Backend', 'C++', 'Database engineer
              'Game designer', 'IOS', 'Javascript', 'Java', 'QA Testing', 'Python', '1С', 'Go',
              'Системный администратор', 'Менеджер', 'Веб-разработчик', 'Разработчик', 'Аналитик', 'Тех. поддержка',
              'Остальное']
-df = pd.read_csv('vacancies.csv')
+df = pd.read_csv('vacancies_one.csv')
 df.drop(df.columns[0], axis=1, inplace=True)
 df.name = df.name.apply(lambda x: re.sub(r'[\s/|\\"*:\-]+', ' ', x.lower().strip()))
 df['days'] = (datetime.now() - pd.to_datetime(
@@ -44,6 +44,4 @@ for index, row in df.iterrows():
             df.loc[index, 'max_salary'] = avg_m
         else:
             df.loc[index, 'max_salary'] = max_avg[row['area']]
-pd.DataFrame(df).to_csv('vacancies_new.csv')
-# df = df.sort_values(by=['max_salary'])
-# df = df.sort_values(by=['min_salary'])
+pd.DataFrame(df).to_csv('vacancies_one_new.csv')

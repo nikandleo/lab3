@@ -15,7 +15,6 @@ def shrinkAndSortList(lst):
             ind += 1
         tup_list.append((lst[index], element_count))
         index += element_count
-
     lst = len(tup_list)
     for j in range(0, lst):
         for z in range(0, lst - j - 1):
@@ -84,6 +83,7 @@ def dummy_skills(dtf, item, path_to_result):
     path = os.path.join(path_to_result, (str(left_border) + " " + str(right_border)).strip())
     os.mkdir(path)
     arr_skills = dtf['key_skills'].str.cat(sep='|').split('|')
+    arr_skills.sort()
     top10skills = shrinkAndSortList(arr_skills)[:10]
     topskills = [x[0] for x in top10skills]
     dtf['new_skills'] = dtf.key_skills.apply(lambda x: x.split("|"))
@@ -123,26 +123,27 @@ def task2(origin_data, salary_separated, path_to_result):
             # calculate(record, data, item, path_to_result)
 
 
-df = pd.read_csv('vacancies_new2.csv')  # vacancies.csv for result/2
-df.name = df.name.apply(lambda x: re.sub(r'[\s/|\\"*:\-]+', ' ', x.lower().strip()))
-df = df.sort_values(by=['max_salary'])
-df = df.sort_values(by=['min_salary'])
-# separate data
-to_value = df['max_salary'].max()
-from_value = df['max_salary'].min()
-step = (to_value - from_value) / 9
-df_list = []
-lower_value = 0
-undefined_group = split_data(df[df['max_salary'].isnull()], 'NAN', 'NAN')
-for i in range(0, 9):
-    upper_value = from_value + step * i
-    select = df.loc[(df['max_salary'] < upper_value) & (df['max_salary'] >= lower_value)]
-    df_list.append(split_data(select, lower_value, upper_value))
-    lower_value = upper_value
-df_list.append(split_data(df.loc[(df['max_salary'] >= lower_value)], left_border=lower_value))
-df_list.append(undefined_group)
+if __name__ == "__main__":
+    df = pd.read_csv('vacancies_new2.csv')  # vacancies.csv for result/2
+    df.name = df.name.apply(lambda x: re.sub(r'[\s/|\\"*:\-]+', ' ', x.lower().strip()))
+    df = df.sort_values(by=['max_salary'])
+    df = df.sort_values(by=['min_salary'])
+    # separate data
+    to_value = df['max_salary'].max()
+    from_value = df['max_salary'].min()
+    step = (to_value - from_value) / 9
+    df_list = []
+    lower_value = 0
+    undefined_group = split_data(df[df['max_salary'].isnull()], 'NAN', 'NAN')
+    for i in range(0, 9):
+        upper_value = from_value + step * i
+        select = df.loc[(df['max_salary'] < upper_value) & (df['max_salary'] >= lower_value)]
+        df_list.append(split_data(select, lower_value, upper_value))
+        lower_value = upper_value
+    df_list.append(split_data(df.loc[(df['max_salary'] >= lower_value)], left_border=lower_value))
+    df_list.append(undefined_group)
 
-# task1(df_list, 'result/1')
-# task2(df, df_list, 'result/2')
-# task2(df, df_list, 'result/3')
-task2(df, df_list, 'result/4')
+    # task1(df_list, 'result/1')
+    # task2(df, df_list, 'result/2')
+    # task2(df, df_list, 'result/3')
+    task2(df, df_list, 'result/4')
